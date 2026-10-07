@@ -1,0 +1,4371 @@
+{
+  "fetched_at": "2026-09-16T03:50:19.073Z",
+  "spreadsheet_id": "1aNoqY6Iu5-9xWIj3DpRfTEQ-ilWn5DrAE5ScV_hYPdc",
+  "kamus": [
+    {
+      "kode_entry": "A0026X1",
+      "kode_kimia": "A0026X1",
+      "nama": "RUCO-SIZE CES",
+      "jenis": "KANJI",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A0026X1",
+      "kode_kimia": "A0026X1",
+      "nama": "RUCO-SIZE CES",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A0048X2",
+      "kode_kimia": "A0048X2",
+      "nama": "PLAS SIZE J ABC",
+      "jenis": "KANJI",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A0048X2",
+      "kode_kimia": "A0048X2",
+      "nama": "PLAS SIZE J ABC",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01BK07",
+      "kode_kimia": "A01BK07",
+      "nama": "TORALON BLACK RAB",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01BK07",
+      "kode_kimia": "A01BK07",
+      "nama": "TORALON BLACK RAB",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01BL03",
+      "kode_kimia": "A01BL03",
+      "nama": "TORALON BLUE BBLS 200%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01BL03",
+      "kode_kimia": "A01BL03",
+      "nama": "TORALON BLUE BBLS 200%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01BL04",
+      "kode_kimia": "A01BL04",
+      "nama": "TORALON BLUE AC-E 100%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01BL04",
+      "kode_kimia": "A01BL04",
+      "nama": "TORALON BLUE AC-E 100%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01BL05",
+      "kode_kimia": "A01BL05",
+      "nama": "TORALON BLUE FBL 150%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01BL05",
+      "kode_kimia": "A01BL05",
+      "nama": "TORALON BLUE FBL 150%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01BL07",
+      "kode_kimia": "A01BL07",
+      "nama": "TORALON BLUE SE-2R 200%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01RB05",
+      "kode_kimia": "A01RB05",
+      "nama": "TORALON RUBINE SE GFL 210%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01RB05",
+      "kode_kimia": "A01RB05",
+      "nama": "TORALON RUBINE SE GFL 210%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01RB05",
+      "kode_kimia": "A01RB05",
+      "nama": "TORALON RUBINE SEGFL 210%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01RD04",
+      "kode_kimia": "A01RD04",
+      "nama": "TORALON RED FB 200%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01RD04",
+      "kode_kimia": "A01RD04",
+      "nama": "TORALON RED FB 200%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01RD05",
+      "kode_kimia": "A01RD05",
+      "nama": "TORALON RED ACE 100%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01RD05",
+      "kode_kimia": "A01RD05",
+      "nama": "TORALON RED ACE 100%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01TQ05",
+      "kode_kimia": "A01TQ05",
+      "nama": "TORALON TURQ. BLUE GL 200% NEW",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01TQ05",
+      "kode_kimia": "A01TQ05",
+      "nama": "TORALON TURQ. BLUE GL 200% NEW",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01YB02",
+      "kode_kimia": "A01YB02",
+      "nama": "TORALON YELLOW BROWN S2RFL 150%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01YB02",
+      "kode_kimia": "A01YB02",
+      "nama": "TORALON YELLOW BROWN S2RFL 150%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01YL05",
+      "kode_kimia": "A01YL05",
+      "nama": "TORALON YELLOW HWF 200%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A01YL06",
+      "kode_kimia": "A01YL06",
+      "nama": "TORALON YELLOW ACE 100%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A01YL06",
+      "kode_kimia": "A01YL06",
+      "nama": "TORALON YELLOW ACE 100%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A03BK05",
+      "kode_kimia": "A03BK05",
+      "nama": "REACTIVE BLACK B 150 % (VS)",
+      "jenis": "REACTIVE DYES (VS)",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A03BK05",
+      "kode_kimia": "A03BK05",
+      "nama": "REACTIVE BLACK B 150 % (VS)",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A03BL03",
+      "kode_kimia": "A03BL03",
+      "nama": "REACTIVE DEEP BLUE RX",
+      "jenis": "REACTIVE DYES (VS)",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A03BL03",
+      "kode_kimia": "A03BL03",
+      "nama": "REACTIVE DEEP BLUE RX",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A05BK01",
+      "kode_kimia": "A05BK01",
+      "nama": "REACTIVE BLACK OB 150%",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A05BK01",
+      "kode_kimia": "A05BK01",
+      "nama": "REACTIVE BLACK OB 150%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A05OR01",
+      "kode_kimia": "A05OR01",
+      "nama": "REACTIVE ORANGE BF 2R",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A05RD01",
+      "kode_kimia": "A05RD01",
+      "nama": "REACTIVE RED S-3BF 150% (BF)",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A05RD01",
+      "kode_kimia": "A05RD01",
+      "nama": "REACTIVE RED S-3BF 150% (BF)",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A05TQ01",
+      "kode_kimia": "A05TQ01",
+      "nama": "REACTIVE TURQ BLUE FG",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A05TQ01",
+      "kode_kimia": "A05TQ01",
+      "nama": "REACTIVE TURQ BLUE FG (VINYL)",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A05YL01",
+      "kode_kimia": "A05YL01",
+      "nama": "REACTIVE YELLOW 4GL (BF)",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A05YL01",
+      "kode_kimia": "A05YL01",
+      "nama": "REACTIVE YELLOW 4GL (BF)",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A05YL02",
+      "kode_kimia": "A05YL02",
+      "nama": "REACTIVE YELLOW S-3RF 150 (BF)",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A05YL02",
+      "kode_kimia": "A05YL02",
+      "nama": "REACTIVE YELLOW S-3RF 150 (BF)",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A14AR01",
+      "kode_kimia": "A14AR01",
+      "nama": "REDUCER ARP",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A14AR01",
+      "kode_kimia": "A14AR01",
+      "nama": "REDUCER ARP",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A14AR02",
+      "kode_kimia": "A14AR02",
+      "nama": "ANTIREDUCER PAL-2",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A14AR02",
+      "kode_kimia": "A14AR02",
+      "nama": "ANTIREDUCER PAL-2",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A14DP06",
+      "kode_kimia": "A14DP06",
+      "nama": "LEOPHEN NS POWDER",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A14DP06",
+      "kode_kimia": "A14DP06",
+      "nama": "LEOPHEN NS POWDER",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "A14SP09",
+      "kode_kimia": "A14SP09",
+      "nama": "LEOPHOL CK-100 CONC",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A14SP09",
+      "kode_kimia": "A14SP09",
+      "nama": "LEOPHOL CK-100 CONC",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "B14LV03",
+      "kode_kimia": "B14LV03",
+      "nama": "UNIVADINE ER",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "B14LV03",
+      "kode_kimia": "B14LV03",
+      "nama": "UNIVADINE ER",
+      "jenis": "",
+      "suplier": "PT. KAPO KIMIA KENCANA"
+    },
+    {
+      "kode_entry": "BH20001",
+      "kode_kimia": "Z08YL01",
+      "nama": "DIRECT CHRYSOPHENIN G",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "BH20001",
+      "kode_kimia": "Z08YL01",
+      "nama": "DIRECT CHRYSOPHENINE G",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "BH95003",
+      "kode_kimia": "Z15SS02",
+      "nama": "SODIUM NITRIT",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "BH95003",
+      "kode_kimia": "Z15SS02",
+      "nama": "SODIUM NITRIT",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "BM95465",
+      "kode_kimia": "I15ZZ01",
+      "nama": "SODIUM NITRAT EX. CHN",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "BM95465",
+      "kode_kimia": "I15ZZ01",
+      "nama": "SODIUM NITRAT EX. CHN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "CM33003",
+      "kode_kimia": "Z14SF06",
+      "nama": "ESKASOFT AMN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "D14OB04",
+      "kode_kimia": "D14OB04",
+      "nama": "DIABRIGHT CID-01",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "D14OB04",
+      "kode_kimia": "D14OB04",
+      "nama": "DIABRIGHT CID-01",
+      "jenis": "",
+      "suplier": "PT. TIRA WAHARI LESTARI"
+    },
+    {
+      "kode_entry": "D14OB05",
+      "kode_kimia": "D14OB05",
+      "nama": "DIABRIGHT BHS",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "D14OB05",
+      "kode_kimia": "D14OB05",
+      "nama": "DIABRIGHT BHS",
+      "jenis": "",
+      "suplier": "PT. TIRA WAHARI LESTARI"
+    },
+    {
+      "kode_entry": "G01BK05",
+      "kode_kimia": "G01BK05",
+      "nama": "DISPERSE BLACK CCR",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "G01RD05",
+      "kode_kimia": "G01RD05",
+      "nama": "CALCRON RED SF-KB",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G01RD05",
+      "kode_kimia": "G01RD05",
+      "nama": "CALCRON RED SF-KB",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "G01RD06",
+      "kode_kimia": "G01RD06",
+      "nama": "CALCRON RED SF-4BN",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G01RD06",
+      "kode_kimia": "G01RD06",
+      "nama": "CALCRON RED SF-4BN",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "G01YL09",
+      "kode_kimia": "G01YL09",
+      "nama": "DISPERSE YELLOW HXF",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G03BK04",
+      "kode_kimia": "G03BK04",
+      "nama": "REACTIVE BLACK B 150%",
+      "jenis": "REACTIVE DYES (VS)",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G03BK04",
+      "kode_kimia": "G03BK04",
+      "nama": "REACTIVE BLACK B 150%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "G03BL02",
+      "kode_kimia": "G03BL02",
+      "nama": "REACTIVE BLUE KNR",
+      "jenis": "REACTIVE DYES (VS)",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G03BL02",
+      "kode_kimia": "G03BL02",
+      "nama": "REACTIVE BLUE KNR",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "G03OR01",
+      "kode_kimia": "G03OR01",
+      "nama": "REACTIVE ORANGE 3RS",
+      "jenis": "REACTIVE DYES (VS)",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G03OR01",
+      "kode_kimia": "G03OR01",
+      "nama": "REACTIVE ORANGE 3RS",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "G05BK01",
+      "kode_kimia": "G05BK01",
+      "nama": "REACTIVE BLACK WNN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G05RD03",
+      "kode_kimia": "G05RD03",
+      "nama": "REACTIVE RED 3B",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G05TQ01",
+      "kode_kimia": "G05TQ01",
+      "nama": "REACTIVE TURQUISE BLUE G 166%",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G05TQ01",
+      "kode_kimia": "G05TQ01",
+      "nama": "REACTIVE TURQUISE BLUE G 166%",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "G05YL04",
+      "kode_kimia": "G05YL04",
+      "nama": "REACTIVE GOLDEN YELLOW RL",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "G05YL05",
+      "kode_kimia": "G05YL05",
+      "nama": "REACTIVE YELLOW 4GL",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G05YL05",
+      "kode_kimia": "G05YL05",
+      "nama": "REACTIVE YELLOW 4GL",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "G08BD03",
+      "kode_kimia": "G08BD03",
+      "nama": "DIRECT BORDEAUX B 125 %",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "G08GN03",
+      "kode_kimia": "G08GN03",
+      "nama": "DIRECT GREEN BG",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "G14RF01",
+      "kode_kimia": "G14RF01",
+      "nama": "KASESOL 05 N",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "G15RK02",
+      "kode_kimia": "D15RK01",
+      "nama": "HYDROSULPHITE EX. CHINA 90%",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "G15RK02",
+      "kode_kimia": "D15RK01",
+      "nama": "HYDROSULPHITE EX. CHINA 90%",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "G15RK02",
+      "kode_kimia": "G15RK02",
+      "nama": "HYDROSULPHITE EX. CHINA 90%",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "GB60691",
+      "kode_kimia": "J05YL02",
+      "nama": "CHLORANYL YELLOW TV-HC",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "GB60691",
+      "kode_kimia": "J05YL02",
+      "nama": "CHLORANYL YELLOW TV-HC",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "GB90153",
+      "kode_kimia": "J14FX01",
+      "nama": "MATEXIL FC-PN",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "GB90153",
+      "kode_kimia": "J14FX01",
+      "nama": "MATEXIL FC-PN",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "GB90155",
+      "kode_kimia": "J14AC01",
+      "nama": "DEPSOLUBE ACA",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "GB90155",
+      "kode_kimia": "J14AC01",
+      "nama": "DEPSOLUBE ACA",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "GB90164",
+      "kode_kimia": "J14CL01",
+      "nama": "LENETOL DM-CP",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "GB90164",
+      "kode_kimia": "J14CL01",
+      "nama": "LENETOL DM-CP",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "GB90171",
+      "kode_kimia": "J14SP02",
+      "nama": "CHLORAGEN SR",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "GB90171",
+      "kode_kimia": "J14SP02",
+      "nama": "CHLORAGEN SR",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "GB90179",
+      "kode_kimia": "J14LV02",
+      "nama": "DEPSODYE LD-VRD",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "H05YL03",
+      "kode_kimia": "H05YL03",
+      "nama": "DRIMARENE YELLOW CL-3G conc.p",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "H05YL03",
+      "kode_kimia": "H05YL03",
+      "nama": "DRIMARENE YELLOW CL-3G conc.p",
+      "jenis": "",
+      "suplier": "PT. CLARIANT INDONESIA"
+    },
+    {
+      "kode_entry": "HC60212",
+      "kode_kimia": "C03BL37",
+      "nama": "REMAZOL BRILLIANT BLUE R SPECIAL",
+      "jenis": "",
+      "suplier": "PT. DYSTAR"
+    },
+    {
+      "kode_entry": "HC60221",
+      "kode_kimia": "C03RD18",
+      "nama": "REMAZOL BRILLIANT RED 3 BS-A 150 %",
+      "jenis": "",
+      "suplier": "PT. DYSTAR"
+    },
+    {
+      "kode_entry": "HC93003",
+      "kode_kimia": "H14OB02",
+      "nama": "HOSTALUX ACK liq.",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "HC93003",
+      "kode_kimia": "H14OB02",
+      "nama": "HOSTALUX ACK liq.",
+      "jenis": "",
+      "suplier": "PT. CLARIANT INDONESIA"
+    },
+    {
+      "kode_entry": "HP10001",
+      "kode_kimia": "Z11RD03",
+      "nama": "BASIC ASTRA FLEX PHLOXIN G 70 % Liq.",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "HP30602",
+      "kode_kimia": "A01YL01",
+      "nama": "TORALON YELLOW 4 GN",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "HP30608",
+      "kode_kimia": "A01VL01",
+      "nama": "TORALON VIOLET 3 RS",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "HP30608",
+      "kode_kimia": "A01VL01",
+      "nama": "TORALON VIOLET 3 RS",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "HP30613",
+      "kode_kimia": "A01DB02",
+      "nama": "TORALON DARK BLUE 3RN",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "HP30613",
+      "kode_kimia": "A01DB02",
+      "nama": "TORALON DARK BLUE 3RN",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "HP90121",
+      "kode_kimia": "A14SP08",
+      "nama": "LEOPHOL CK 100",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "HP93001",
+      "kode_kimia": "A14AD01",
+      "nama": "LEOCOL AM",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "HP93006",
+      "kode_kimia": "A14SB01",
+      "nama": "LEONADIN ST - 170",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "HP93006",
+      "kode_kimia": "A14SB01",
+      "nama": "LEONADIN ST - 170",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "HP93013",
+      "kode_kimia": "A14SF06",
+      "nama": "LEOSOFT CS 107 N",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "HP93013",
+      "kode_kimia": "A14SF06",
+      "nama": "LEOSOFT CS 107 N",
+      "jenis": "",
+      "suplier": "PT. HARAPINDO PRATAMA"
+    },
+    {
+      "kode_entry": "I15SB02",
+      "kode_kimia": "I15SB02",
+      "nama": "SODIUM CHLORITE EX.CHINA",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "I15SB02",
+      "kode_kimia": "I15SB02",
+      "nama": "SODIUM CHLORITE EX.CHINA",
+      "jenis": "",
+      "suplier": "PT. LAUTAN LUAS"
+    },
+    {
+      "kode_entry": "J01RD04",
+      "kode_kimia": "J01RD04",
+      "nama": "DISPANYL RED W-3B 125%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J03BL02",
+      "kode_kimia": "J03BL02",
+      "nama": "CHLORANYL BLUE T-2B",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05BK01",
+      "kode_kimia": "J05BK01",
+      "nama": "CHLORANYL PENTA BLACK SP",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05BK01",
+      "kode_kimia": "J05BK01",
+      "nama": "CHLORANYL PENTA BLACK SP",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05BL01",
+      "kode_kimia": "J05BL01",
+      "nama": "CHLORANYL ROYAL TV-HC",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05BL01",
+      "kode_kimia": "J05BL01",
+      "nama": "CHLORANYL ROYAL TV-HC",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05NV02",
+      "kode_kimia": "J05UN01",
+      "nama": "CHLORANYL ULTRA NAVY 2R",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05OR02",
+      "kode_kimia": "J05OR02",
+      "nama": "CHLORANYL ULTRA ORANGE 4R",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05OR02",
+      "kode_kimia": "J05UO01",
+      "nama": "CHLORANYL ULTRA ORANGE 4R",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05OR02",
+      "kode_kimia": "J05OR02",
+      "nama": "CHLORANYL ULTRA ORANGE 4R",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05RD02",
+      "kode_kimia": "J05RD02",
+      "nama": "CHLORANYL PENTA RED 2G",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05RD02",
+      "kode_kimia": "J05RD02",
+      "nama": "CHLORANYL PENTA RED 2G",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05RD03",
+      "kode_kimia": "J05RD03",
+      "nama": "CHLORANYL ULTRA RED R",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05RD03",
+      "kode_kimia": "J05RD03",
+      "nama": "CHLORANYL ULTRA RED R",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05RD04",
+      "kode_kimia": "J05RD04",
+      "nama": "CHLORANYL PENTA RED B",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05RD04",
+      "kode_kimia": "J05RD04",
+      "nama": "CHLORANYL PENTA RED B",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05TQ01",
+      "kode_kimia": "J05TQ01",
+      "nama": "CHLORANYL PENTA CYANINE B",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05TQ01",
+      "kode_kimia": "J05TQ01",
+      "nama": "CHLORANYL PENTA CYANINE B",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05UN01",
+      "kode_kimia": "J05NV02",
+      "nama": "CHLORANYL ULTRA NAVY 2R",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05UN01",
+      "kode_kimia": "J05NV02",
+      "nama": "CHLORANYL ULTRA NAVY 2R",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05YL03",
+      "kode_kimia": "J05YL03",
+      "nama": "CHLORANYL PENTA YELLOW 6G",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05YL03",
+      "kode_kimia": "J05YL03",
+      "nama": "CHLORANYL PENTA YELLOW 6G",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J05YL04",
+      "kode_kimia": "J05YL04",
+      "nama": "CHLORANYL PENTA GOLDEN 2R",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J05YL04",
+      "kode_kimia": "J05YL04",
+      "nama": "CHLORANYL PENTA GOLDEN 2R",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J14AR02",
+      "kode_kimia": "J14AR02",
+      "nama": "CHLORADYE AR",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J14LV04",
+      "kode_kimia": "J14LV04",
+      "nama": "CHLORAPEX ASA",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J14LV04",
+      "kode_kimia": "J14LV04",
+      "nama": "CHLORAPEX ASA",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J14SP03",
+      "kode_kimia": "J14SP03",
+      "nama": "CHLORAGEN AD",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J14SP03",
+      "kode_kimia": "J14SP03",
+      "nama": "CHLORAGEN AD",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "J14SP04",
+      "kode_kimia": "J14SP04",
+      "nama": "CHLORAGEN SR NEW",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K07BL01",
+      "kode_kimia": "K07BL01",
+      "nama": "INDANTREN BLUE RSN 200%",
+      "jenis": "VAT DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K07BL01",
+      "kode_kimia": "K07BL01",
+      "nama": "INDANTREN BLUE RSN 200%",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K07GN02",
+      "kode_kimia": "K07GN02",
+      "nama": "NOVATIC GREEN XBN 300%",
+      "jenis": "VAT DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K07GN02",
+      "kode_kimia": "K07GN02",
+      "nama": "NOVATIC GREEN XBN 300%",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K07GN03",
+      "kode_kimia": "K07GN03",
+      "nama": "INDANTHRENE GREEN XBN",
+      "jenis": "VAT DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K07GN03",
+      "kode_kimia": "K07GN03",
+      "nama": "INDANTHRENE GREEN XBN",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K07OR01",
+      "kode_kimia": "K07OR01",
+      "nama": "INDANTREN GOLD ORANGE G",
+      "jenis": "VAT DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K07OR01",
+      "kode_kimia": "K07OR01",
+      "nama": "INDANTREN GOLD ORANGE G",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K07VL02",
+      "kode_kimia": "K07VL02",
+      "nama": "INDANTREN VIOLET 4R 200%",
+      "jenis": "VAT DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K07VL02",
+      "kode_kimia": "K07VL02",
+      "nama": "INDANTREN VIOLET 4R 200%",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K07YL02",
+      "kode_kimia": "K07YL02",
+      "nama": "INDANTREN YELLOW GCN 200%",
+      "jenis": "VAT DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K07YL02",
+      "kode_kimia": "K07YL02",
+      "nama": "INDANTREN YELLOW GCN 200%",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K08BK02",
+      "kode_kimia": "K08BK02",
+      "nama": "DIRECT BLACK EX 300 % CONZ",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K09BK02",
+      "kode_kimia": "K09BK02",
+      "nama": "FAST BASE BLACK B",
+      "jenis": "GARAM NAPHTOL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "K09BK02",
+      "kode_kimia": "K09BK02",
+      "nama": "FAST BASE BLACK B",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K11VL02",
+      "kode_kimia": "K11VL02",
+      "nama": "BASIC METHYL VIOLET 303 RRC",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "K11YL02",
+      "kode_kimia": "K11YL02",
+      "nama": "BASIC AURAMIN OO INDIAN",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "KK00209",
+      "kode_kimia": "B10RD04",
+      "nama": "ERIONYL RED B 200 %",
+      "jenis": "",
+      "suplier": "PT. KAPO KIMIA KENCANA"
+    },
+    {
+      "kode_entry": "KK00215",
+      "kode_kimia": "B10NV03",
+      "nama": "ERIONYL NAVY A-R",
+      "jenis": "",
+      "suplier": "PT. KAPO KIMIA KENCANA"
+    },
+    {
+      "kode_entry": "KK00217",
+      "kode_kimia": "B10YL03",
+      "nama": "ERIONYL YELLOW A-3G",
+      "jenis": "",
+      "suplier": "PT. KAPO KIMIA KENCANA"
+    },
+    {
+      "kode_entry": "KK90002",
+      "kode_kimia": "B14FX01",
+      "nama": "ERIONAL RF",
+      "jenis": "",
+      "suplier": "PT. KAPO KIMIA KENCANA"
+    },
+    {
+      "kode_entry": "MA90001",
+      "kode_kimia": "K14WT01",
+      "nama": "MINAGENT POWDER",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "MA90001",
+      "kode_kimia": "K14WT01",
+      "nama": "MINAGENT POWDER",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "N14SF05",
+      "kode_kimia": "N14SF05",
+      "nama": "LUSTER SB",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "N14SF05",
+      "kode_kimia": "N14SF05",
+      "nama": "LUSTER SB",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "O14AC01",
+      "kode_kimia": "O14AC01",
+      "nama": "RUCOLIN EPI 1639-ID",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14CR02",
+      "kode_kimia": "O14CR02",
+      "nama": "RUCOGAL POX",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14CR02",
+      "kode_kimia": "O14CR02",
+      "nama": "RUCOGAL POX",
+      "jenis": "",
+      "suplier": "PT. RUDOLF POLY CHEMICALS"
+    },
+    {
+      "kode_entry": "O14EZ02",
+      "kode_kimia": "O14EZ02",
+      "nama": "RUCOLASE CML 200",
+      "jenis": "",
+      "suplier": "PT. RUDOLF POLY CHEMICALS"
+    },
+    {
+      "kode_entry": "O14FX02",
+      "kode_kimia": "O14FX02",
+      "nama": "HYDROCOL KAE EXTRA - ID",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14LV02",
+      "kode_kimia": "O14LV02",
+      "nama": "RUCOGAL RLC",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14LV02",
+      "kode_kimia": "O14LV02",
+      "nama": "RUCOGAL RLC",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14SF06",
+      "kode_kimia": "O14SF06",
+      "nama": "RUCOFIL AWMU",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14SF06",
+      "kode_kimia": "O14SF06",
+      "nama": "RUCOFIL AWMU",
+      "jenis": "",
+      "suplier": "PT. RUDOLF POLY CHEMICALS"
+    },
+    {
+      "kode_entry": "PK30314",
+      "kode_kimia": "C01RD10",
+      "nama": "DIANIX LUMINOUS RED G",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "PK30314",
+      "kode_kimia": "C01RD10",
+      "nama": "DIANIX LUMINOUS RED G",
+      "jenis": "",
+      "suplier": "PT. DYSTAR"
+    },
+    {
+      "kode_entry": "PK30316",
+      "kode_kimia": "C01YL07",
+      "nama": "DIANIX LUMINOUS YELLOW 10 G",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "PK30316",
+      "kode_kimia": "C01YL07",
+      "nama": "DIANIX LUMINOUS YELLOW 10 G",
+      "jenis": "",
+      "suplier": "PT. DYSTAR"
+    },
+    {
+      "kode_entry": "PM95463",
+      "kode_kimia": "I15SP01",
+      "nama": "SODIUM METABISULFITE",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "PM95463",
+      "kode_kimia": "I15SP01",
+      "nama": "SODIUM METABISULFITE",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "PU90201",
+      "kode_kimia": "O14LV01",
+      "nama": "RUCO LEVELLER EN (RUCOGAL EN)",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "PU90201",
+      "kode_kimia": "O14LV01",
+      "nama": "RUCO LEVELLER EN (RUCOGAL EN)",
+      "jenis": "",
+      "suplier": "PT. RUDOLF POLY CHEMICALS"
+    },
+    {
+      "kode_entry": "S14DP01",
+      "kode_kimia": "S14DP01",
+      "nama": "SANDISPERSE ON",
+      "jenis": "",
+      "suplier": "PT. CAHAYA ASA SENTOSA"
+    },
+    {
+      "kode_entry": "SC30604",
+      "kode_kimia": "H14FX03",
+      "nama": "OPTIFIX F liq.",
+      "jenis": "",
+      "suplier": "PT. CLARIANT INDONESIA"
+    },
+    {
+      "kode_entry": "SC60459",
+      "kode_kimia": "H05BL01",
+      "nama": "DRIMARENE BLUE CL-BR",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "SC60459",
+      "kode_kimia": "H05BL01",
+      "nama": "DRIMARENE BLUE CL-BR",
+      "jenis": "",
+      "suplier": "PT. CLARIANT INDONESIA"
+    },
+    {
+      "kode_entry": "SC60461",
+      "kode_kimia": "H05TQ01",
+      "nama": "DRIMARENE TURQ. BLUE CL-B",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "SC60461",
+      "kode_kimia": "H05TQ01",
+      "nama": "DRIMARENE TURQ. BLUE CL-B",
+      "jenis": "",
+      "suplier": "PT. CLARIANT INDONESIA"
+    },
+    {
+      "kode_entry": "SC60467",
+      "kode_kimia": "H05YL02",
+      "nama": "DRIMARENE YELLOW CL-2R p",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "SC60467",
+      "kode_kimia": "H05YL02",
+      "nama": "DRIMARENE YELLOW CL-2R p",
+      "jenis": "",
+      "suplier": "PT. CLARIANT INDONESIA"
+    },
+    {
+      "kode_entry": "SC60475",
+      "kode_kimia": "H05NV02",
+      "nama": "DRIMARENE NAVY HF-GN cdg",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "SC60475",
+      "kode_kimia": "H05NV02",
+      "nama": "DRIMARENE NAVY HF-GN cdg",
+      "jenis": "",
+      "suplier": "PT. CLARIANT INDONESIA"
+    },
+    {
+      "kode_entry": "SM90421",
+      "kode_kimia": "N14LV01",
+      "nama": "COLORSOL BL 10",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "SM90421",
+      "kode_kimia": "N14LV01",
+      "nama": "COLORSOL BL 10",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "SM90422",
+      "kode_kimia": "N14LV02",
+      "nama": "COLORSOL BL 30",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "SM90422",
+      "kode_kimia": "N14LV02",
+      "nama": "COLORSOL BL 30",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90300",
+      "kode_kimia": "N11BK01",
+      "nama": "TAIACRYL BLACK SWT 200%",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90301",
+      "kode_kimia": "N11BL03",
+      "nama": "TAIACRYL BLUE 5 GT 200%",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90302",
+      "kode_kimia": "N11BL01",
+      "nama": "TAIACRYL BLUE RGNT 300%",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "TT90302",
+      "kode_kimia": "N11BL01",
+      "nama": "TAIACRYL BLUE RGNT 300%",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90303",
+      "kode_kimia": "N11YL07",
+      "nama": "TAIACRYL GOLDEN YELLOW 2 GT 200%",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "TT90303",
+      "kode_kimia": "N11YL07",
+      "nama": "TAIACRYL GOLDEN YELLOW 2 GT 200%",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90304",
+      "kode_kimia": "N11GR01",
+      "nama": "TAIACRYL MALACHITE GREEN",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90305",
+      "kode_kimia": "N11RD01",
+      "nama": "TAIACRYL RED GRLT 200%",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "TT90305",
+      "kode_kimia": "N11RD01",
+      "nama": "TAIACRYL RED GRLT 200%",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90307",
+      "kode_kimia": "N11RD04",
+      "nama": "TAIACRYL RED VIOLET 3 RLT 200%",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "TT90307",
+      "kode_kimia": "N11RD04",
+      "nama": "TAIACRYL RED VIOLET 3 RLT 200%",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90308",
+      "kode_kimia": "N11YL03",
+      "nama": "TAIACRYL YELLOW 4 GNT 200%",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "TT90308",
+      "kode_kimia": "N11YL03",
+      "nama": "TAIACRYL YELLOW 4 GNT 200%",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TT90309",
+      "kode_kimia": "N11YL01",
+      "nama": "TAIACRYL YELLOW 7 GLT",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "TW80205",
+      "kode_kimia": "D07OR33",
+      "nama": "INDANTHREN GOLD ORANGE G",
+      "jenis": "",
+      "suplier": "PT. TIRA WAHARI LESTARI"
+    },
+    {
+      "kode_entry": "TW80208",
+      "kode_kimia": "Z07BR01",
+      "nama": "INDANTHREN BROWN BR",
+      "jenis": "VAT DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "TW80208",
+      "kode_kimia": "Z07BR01",
+      "nama": "INDANTHREN BROWN BR",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "U14AR02",
+      "kode_kimia": "U14AR02",
+      "nama": "CHLORADYE LAR",
+      "jenis": "",
+      "suplier": "PT. GALIC BINA MADA"
+    },
+    {
+      "kode_entry": "U14ZZ01",
+      "kode_kimia": "J01RD04",
+      "nama": "DISPANYL RED W-3B 125%",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "U14ZZ01",
+      "kode_kimia": "J01RD04",
+      "nama": "DISPANYL RED W-3B 125%",
+      "jenis": "",
+      "suplier": "PT. MULTIKIMIA INTIPELANGI / MKI"
+    },
+    {
+      "kode_entry": "U14ZZ01",
+      "kode_kimia": "U14ZZ01",
+      "nama": "DISPANYL RED W-3B 125%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V14SF01",
+      "kode_kimia": "V14SF01",
+      "nama": "PROSOFT S-100",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V14SF01",
+      "kode_kimia": "V14SF01",
+      "nama": "PROSOFT S-100",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "WN30802",
+      "kode_kimia": "G01VL03",
+      "nama": "CALCRON VIOLET S-3RL",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "WN60829",
+      "kode_kimia": "G11BL01",
+      "nama": "CATIONIC BLUE X-GRRL 250%",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "WN60833",
+      "kode_kimia": "G11TQ01",
+      "nama": "CATIONIC TURQ BLUE XGB 250%",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "WN60834",
+      "kode_kimia": "G11YL02",
+      "nama": "CATIONIC BRILL. YELLOW X7GL",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "WN60835",
+      "kode_kimia": "G11YL03",
+      "nama": "CATIONIC GOLDEN YELLOW XGL 250%",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "WN60836",
+      "kode_kimia": "G11RD03",
+      "nama": "CATIONIC RED XGRL 500%",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "WN60836",
+      "kode_kimia": "G11RD03",
+      "nama": "CATIONIC RED XGRL 500%",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "WN90101",
+      "kode_kimia": "G14DP01",
+      "nama": "SUNSOLT RM-340K",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA / LAIN-LAIN"
+    },
+    {
+      "kode_entry": "XX10106",
+      "kode_kimia": "K11GN01",
+      "nama": "BASIC BRILLIANT GREEN CRYSTAL",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX10109",
+      "kode_kimia": "Z11RD04",
+      "nama": "ASTRAPHLOXINE FF EXT.",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX10110",
+      "kode_kimia": "K11YL01",
+      "nama": "BASIC AURAMIN OO RRC",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX10110",
+      "kode_kimia": "K11YL01",
+      "nama": "BASIC AURAMIN OO RRC",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX10111",
+      "kode_kimia": "Z11BL01",
+      "nama": "BASIC METHYLENE BLUE",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX20102",
+      "kode_kimia": "Z08TQ01",
+      "nama": "DIRECT FAST TURQUISE BLUE GL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX20106",
+      "kode_kimia": "Z08GY01",
+      "nama": "DIRECT GREY VGR",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX20110",
+      "kode_kimia": "K08VL02",
+      "nama": "DIRECT VIOLET BB",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX20111",
+      "kode_kimia": "G08RD01",
+      "nama": "DIRECT CONGO RED",
+      "jenis": "",
+      "suplier": "PT. WARNA JAYA NUSANTARA"
+    },
+    {
+      "kode_entry": "XX20115",
+      "kode_kimia": "K08YL01",
+      "nama": "DIAMINE CHRYSOPHENINE G",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX20118",
+      "kode_kimia": "K08VL01",
+      "nama": "DIRECT VIOLET RN",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX20119",
+      "kode_kimia": "K08GY01",
+      "nama": "BENZOLIGHT GRAY",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX20122",
+      "kode_kimia": "K08BR03",
+      "nama": "DIAMINE BROWN GG",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX20123",
+      "kode_kimia": "K08BR05",
+      "nama": "DIAMINE BROWN MC",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX20125",
+      "kode_kimia": "K08BR06",
+      "nama": "DIAMINE BROWN MRC",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX40103",
+      "kode_kimia": "Z09RD01",
+      "nama": "GARAM RED B JAPAN",
+      "jenis": "GARAM NAPHTOL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX40103",
+      "kode_kimia": "Z09RD01",
+      "nama": "GARAM RED B JAPAN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX40104",
+      "kode_kimia": "K09SC01",
+      "nama": "GARAM SCARLET GG",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX40106",
+      "kode_kimia": "Z09BD01",
+      "nama": "GARAM BORDOUX GP",
+      "jenis": "GARAM NAPHTOL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX40106",
+      "kode_kimia": "Z09BD01",
+      "nama": "GARAM BORDOUX GP",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX50102",
+      "kode_kimia": "Z16NP05",
+      "nama": "NAPHTOL AS-BO",
+      "jenis": "NAPHTOL DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX50102",
+      "kode_kimia": "Z16NP05",
+      "nama": "NAPHTOL AS-BO",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX50103",
+      "kode_kimia": "Z16NP01",
+      "nama": "NAPHTOL AS",
+      "jenis": "NAPHTOL DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX50103",
+      "kode_kimia": "Z16NP01",
+      "nama": "NAPHTOL AS",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX50105",
+      "kode_kimia": "K16NP02",
+      "nama": "NAPHTOL AS-G",
+      "jenis": "NAPHTOL DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX50105",
+      "kode_kimia": "K16NP02",
+      "nama": "NAPHTOL AS-G",
+      "jenis": "",
+      "suplier": "UD. WARNA JAYA"
+    },
+    {
+      "kode_entry": "XX50105",
+      "kode_kimia": "K16NP02",
+      "nama": "NAPHTOL AS-G (JAPAN)",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90309",
+      "kode_kimia": "N11BL04",
+      "nama": "DAICRYL BLUE KGS",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90309",
+      "kode_kimia": "N11BL04",
+      "nama": "DAICRYL BLUE KGS",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX90310",
+      "kode_kimia": "N11RD06",
+      "nama": "DAICRYL RED KGL",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90310",
+      "kode_kimia": "N11RD06",
+      "nama": "DAICRYL RED KGL",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX90311",
+      "kode_kimia": "N11YL04",
+      "nama": "DAICRYL YELLOW K3RL",
+      "jenis": "BASIC DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90311",
+      "kode_kimia": "N11YL04",
+      "nama": "DAICRYL YELLOW K3RL",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX90312",
+      "kode_kimia": "N11RD02",
+      "nama": "DAICRYL RED 7 BSN",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX90400",
+      "kode_kimia": "N14SF01",
+      "nama": "LUSTER L 90 B",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90401",
+      "kode_kimia": "N14SP01",
+      "nama": "DAISURF JET 100",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90401",
+      "kode_kimia": "N14SP01",
+      "nama": "DAISURF JET 100",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX90402",
+      "kode_kimia": "N14DP01",
+      "nama": "COLORSOL ACE 81",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90402",
+      "kode_kimia": "N14DP01",
+      "nama": "COLORSOL ACE 81",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX90415",
+      "kode_kimia": "N14SF02",
+      "nama": "TAFFULON BD",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX90415",
+      "kode_kimia": "N14SF02",
+      "nama": "TAFFULON BD",
+      "jenis": "",
+      "suplier": "PT. DAI-ICHI KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX95401",
+      "kode_kimia": "E15SS01",
+      "nama": "SODIUM SULPHATE",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95401",
+      "kode_kimia": "E15SS01",
+      "nama": "SODIUM SULPHATE",
+      "jenis": "",
+      "suplier": "PT. ANEKA KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX95403",
+      "kode_kimia": "I15SA01",
+      "nama": "SODA ASH DENSE",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95403",
+      "kode_kimia": "I15SA01",
+      "nama": "SODA ASH DENSE",
+      "jenis": "",
+      "suplier": "PT. LAUTAN LUAS"
+    },
+    {
+      "kode_entry": "XX95404",
+      "kode_kimia": "E15CS01",
+      "nama": "CAUSTIC SODA FLAKE",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95404",
+      "kode_kimia": "E15CS01",
+      "nama": "CAUSTIC SODA FLAKE",
+      "jenis": "",
+      "suplier": "PT. ANEKA KIMIA RAYA"
+    },
+    {
+      "kode_entry": "XX95405",
+      "kode_kimia": "Z15OT01",
+      "nama": "HYDROGEN PEROKSIDA (H2O2) EX LOKAL",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95405",
+      "kode_kimia": "Z15OT01",
+      "nama": "HYDROGEN PEROKSIDA (H2O2) EX LOKAL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95409",
+      "kode_kimia": "Z15ZA01",
+      "nama": "PUPUK ZA ( AMONIUM SULPATE )",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95409",
+      "kode_kimia": "Z15ZA01",
+      "nama": "PUPUK ZA ( AMONIUM SULPATE )",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95467",
+      "kode_kimia": "I15ZZ02",
+      "nama": "OXALIC ACID EX. CHN",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "XX95467",
+      "kode_kimia": "I15ZZ02",
+      "nama": "OXALIC ACID EX. CHN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Y01RD01",
+      "kode_kimia": "Y01RD01",
+      "nama": "SPECRON RED BS",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Y01RD01",
+      "kode_kimia": "Y01RD01",
+      "nama": "SPECRON RED BS",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Y01RD02",
+      "kode_kimia": "Y01RD02",
+      "nama": "BEMACRON CARMINE RS",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Y14FX01",
+      "kode_kimia": "Y14FX01",
+      "nama": "TALOFIX A",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01BK19",
+      "kode_kimia": "Z01BK19",
+      "nama": "SPECRON BLACK BR",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01NV06",
+      "kode_kimia": "Z01NV06",
+      "nama": "SPECRON NAVY BLUE S2GL 200%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01RB09",
+      "kode_kimia": "Z01RB09",
+      "nama": "SPECRON RUBINE S2_GFL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01SC01",
+      "kode_kimia": "Z01SC01",
+      "nama": "SPECRON SCARLET S-BWFL 150%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01YL23",
+      "kode_kimia": "Z01YL23",
+      "nama": "SPECRON YELLOW S6GL",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01YL23",
+      "kode_kimia": "Z01YL23",
+      "nama": "SPECRON YELLOW S6GL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01YL26",
+      "kode_kimia": "Z01YL26",
+      "nama": "SPECRON YELLOW 4 GN 200%",
+      "jenis": "DISPERSE DYES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01YL26",
+      "kode_kimia": "Z01YL26",
+      "nama": "SPECRON YELLOW 4 GN 200%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z02OR01",
+      "kode_kimia": "Z02OR01",
+      "nama": "SPECRON TURQ.BLUE BG 01",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z03BK03",
+      "kode_kimia": "Z03BK03",
+      "nama": "SPECFIX BLACK B 175%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z03BL04",
+      "kode_kimia": "Z03BL04",
+      "nama": "IRISTIVE BLUE 2R",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z03BL05",
+      "kode_kimia": "Z03BL05",
+      "nama": "SPECFIX BRILL BLUE R",
+      "jenis": "REACTIVE DYES (VS)",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z03BL05",
+      "kode_kimia": "Z03BL05",
+      "nama": "SPECFIX BRILL BLUE R",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z03OR03",
+      "kode_kimia": "Z03OR03",
+      "nama": "IRISTIVE ORANGE 3R",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z05BK02",
+      "kode_kimia": "Z05BK02",
+      "nama": "SPECFIX BLACK WNN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z05BL02",
+      "kode_kimia": "Z05BL02",
+      "nama": "VICTORY BLUE BR",
+      "jenis": "",
+      "suplier": "LAIN-LAIN"
+    },
+    {
+      "kode_entry": "Z05YL09",
+      "kode_kimia": "Z05YL09",
+      "nama": "IRISTIVE YELLOW ME4GL",
+      "jenis": "REACTIVE DYES (BIFUCTIONA",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z05YL09",
+      "kode_kimia": "Z05YL09",
+      "nama": "IRISTIVE YELLOW ME4GL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z08TQ03",
+      "kode_kimia": "Z08TQ03",
+      "nama": "SUPRA TURQUIS BLUE GL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z09BD02",
+      "kode_kimia": "Z09BD02",
+      "nama": "FAST BORDEAUX GP BASE",
+      "jenis": "GARAM NAPHTOL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z09BD02",
+      "kode_kimia": "Z09BD02",
+      "nama": "FAST BORDEAUX GP BASE",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z09RD04",
+      "kode_kimia": "Z09RD04",
+      "nama": "FAST RED B BASE",
+      "jenis": "GARAM NAPHTOL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z09RD04",
+      "kode_kimia": "Z09RD04",
+      "nama": "FAST RED B BASE",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z09SC04",
+      "kode_kimia": "Z09SC04",
+      "nama": "FAST SCARLET R BASE",
+      "jenis": "GARAM NAPHTOL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z09SC04",
+      "kode_kimia": "Z09SC04",
+      "nama": "FAST SCARLET R BASE",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14AF03",
+      "kode_kimia": "Z14AF03",
+      "nama": "DEFOAMER SN",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14AF03",
+      "kode_kimia": "Z14AF03",
+      "nama": "DEFOAMER SN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14DP05",
+      "kode_kimia": "Z14DP05",
+      "nama": "KATLEVDIS CONC",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14DP05",
+      "kode_kimia": "Z14DP05",
+      "nama": "KATLEVDIS CONC",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14LV06",
+      "kode_kimia": "Z14LV06",
+      "nama": "KATANOL NS LIQ",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14LV06",
+      "kode_kimia": "Z14LV06",
+      "nama": "KATANOL NS LIQ",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14SF13",
+      "kode_kimia": "Z14SF13",
+      "nama": "TRIWAX LUBE CY-30",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14SF13",
+      "kode_kimia": "Z14SF13",
+      "nama": "TRIWAX LUBE CY-30",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14SP03",
+      "kode_kimia": "Z14SP03",
+      "nama": "DEKOL SN-S",
+      "jenis": "AUXILLIRIES",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14SP03",
+      "kode_kimia": "Z14SP03",
+      "nama": "DEKOL SN-S",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z15AZ11",
+      "kode_kimia": "Z15AZ11",
+      "nama": "ACETIC ACID",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z15AZ11",
+      "kode_kimia": "Z15AZ11",
+      "nama": "ACETIC ACID",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z15MZ02",
+      "kode_kimia": "Z15MZ02",
+      "nama": "FORMIC ACID 90% SINTAS",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z15MZ02",
+      "kode_kimia": "Z15MZ02",
+      "nama": "FORMIC ACID 90% SINTAS",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z15RK04",
+      "kode_kimia": "Z15RK04",
+      "nama": "LEOPHOL RC-13",
+      "jenis": "GENERAL CHEMICAL",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z15RK04",
+      "kode_kimia": "Z15RK04",
+      "nama": "LEOPHOL RC-13",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z15ZZ30",
+      "kode_kimia": "Z15ZZ30",
+      "nama": "ESKAPLUS DN-SR",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z99ZZ21",
+      "kode_kimia": "Z99ZZ21",
+      "nama": "DBS",
+      "jenis": "LAIN-LAIN",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z99ZZ21",
+      "kode_kimia": "Z99ZZ21",
+      "nama": "DBS",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14AC01",
+      "kode_kimia": "O14AC01",
+      "nama": "RUCOLIN EPI 1639-ID",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V07BL01",
+      "kode_kimia": "V07BL01",
+      "nama": "TRANTEXX BLUE RSN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "U14ZZ02",
+      "kode_kimia": "U14ZZ02",
+      "nama": "DISPANYL RED W-R",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A14AS01",
+      "kode_kimia": "A14AS01",
+      "nama": "ELENON H 1200",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V07YL01",
+      "kode_kimia": "V07YL01",
+      "nama": "TRANTEXX YELLOW GCN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V03OR01",
+      "kode_kimia": "V03OR01",
+      "nama": "ERAFIX ORANGE 3RX",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z03BL06",
+      "kode_kimia": "Z03BL06",
+      "nama": "CORAZOL BRILL BLUE RN 150%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J15RK02",
+      "kode_kimia": "J15RK02",
+      "nama": "HYDROSULPHITE 90% EX.CHINA",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J01DP01",
+      "kode_kimia": "J01DP01",
+      "nama": "CHLORADYE DLP",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01YL30",
+      "kode_kimia": "Z01YL30",
+      "nama": "CORALENE BRILL YELLOW 4GNL SE CONE",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V01RD01",
+      "kode_kimia": "V01RD01",
+      "nama": "ERACRON RED SRC",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V01YB01",
+      "kode_kimia": "V01YB01",
+      "nama": "ERACRON YELLOW BROWN 2S2RFL 200%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14DP02",
+      "kode_kimia": "O14DP02",
+      "nama": "RUCOGAL ELD 50",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V14RC02",
+      "kode_kimia": "V14RC02",
+      "nama": "XR-505",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V05TQ01",
+      "kode_kimia": "V05TQ01",
+      "nama": "ERAFIX TURQUOISE BLUE G 166%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z16NP13",
+      "kode_kimia": "Z16NP13",
+      "nama": "NAPHTOL AS-BO DARK",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "RC10002",
+      "kode_kimia": "O14AF01",
+      "nama": "RUSTOL ASA",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "J01RD05",
+      "kode_kimia": "J01RD05",
+      "nama": "DISPANYL RED W-R",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V01YL01",
+      "kode_kimia": "V01YL01",
+      "nama": "ERACRON YELLOW 6GSL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14CR05",
+      "kode_kimia": "O14CR05",
+      "nama": "RUCOGAL PDI",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V01RB01",
+      "kode_kimia": "V01RB01",
+      "nama": "ERACRON RUBINE S2GFL 200%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V01NB01",
+      "kode_kimia": "V01NB01",
+      "nama": "ERACRON NAVY BLUE S2GL 200%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14SP02",
+      "kode_kimia": "O14SP02",
+      "nama": "RUCOGEN FWK 50-ID",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14SP02",
+      "kode_kimia": "O14SP02",
+      "nama": "RUCOGEN FWK 50-ID",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V14RE01",
+      "kode_kimia": "V14RE01",
+      "nama": "ERAFIX TURQUOISE BLUE G 166%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V14RE01",
+      "kode_kimia": "V14RE01",
+      "nama": "ERAFIX TURQUOISE BLUE G 166%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V09RD02",
+      "kode_kimia": "V09RD02",
+      "nama": "RED B BASE",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z01BK09",
+      "kode_kimia": "Z01BK09",
+      "nama": "ERACON BLACK S4BL",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14SP12",
+      "kode_kimia": "Z14SP12",
+      "nama": "ECONAT LABS",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V09BK01",
+      "kode_kimia": "V09BK01",
+      "nama": "FAST BASE BLACK B (2)",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "O14AR01",
+      "kode_kimia": "O14AR01",
+      "nama": "RUCORIT GUR NEW-ID",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z14SP09",
+      "kode_kimia": "Z14SP09",
+      "nama": "BEMAX NTR",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "GB30008",
+      "kode_kimia": "J04NV02",
+      "nama": "GALAXYL NAVY XLN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "A000122",
+      "kode_kimia": "A000122",
+      "nama": "PAV 1788",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V01BL03",
+      "kode_kimia": "V01BL03",
+      "nama": "ERACRON BRILL BLUE S-BG 200%",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "GB30011",
+      "kode_kimia": "J04BL02",
+      "nama": "GALAXYL SKY BLUE XLN",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z16NP01",
+      "kode_kimia": "Z16NP01",
+      "nama": "ERANAFTOL ASG",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "V16NP02",
+      "kode_kimia": "V16NP02",
+      "nama": "ERANAFTOL AS-G",
+      "jenis": "",
+      "suplier": ""
+    },
+    {
+      "kode_entry": "Z19ZZ34",
+      "kode_kimia": "Z19ZZ34",
+      "nama": "ASAM SULFATE (H2SO4) 98%",
+      "jenis": "",
+      "suplier": ""
+    }
+  ],
+  "activeLots": [
+    {
+      "lot_no": 1,
+      "warna": "C.C.13.A",
+      "berat_Benang_kg": 67.5,
+      "mesin": "FONGS 100 K (A21)",
+      "no_resep": "OO07CC13A003",
+      "kikc": "OON26I081",
+      "volume_air_liter": 500
+    },
+    {
+      "lot_no": 2,
+      "warna": "A.G.05.A",
+      "berat_Benang_kg": 108,
+      "mesin": "HISAKA A100",
+      "no_resep": "AH08AG05A002",
+      "kikc": "AHN26I168",
+      "volume_air_liter": 1100
+    },
+    {
+      "lot_no": 3,
+      "warna": "C.G.08.A",
+      "berat_Benang_kg": 9,
+      "mesin": "A0-1",
+      "no_resep": "OO07CG08A006",
+      "kikc": "OON26I077",
+      "volume_air_liter": 88
+    },
+    {
+      "lot_no": 4,
+      "warna": "C.C.23.A",
+      "berat_Benang_kg": 33,
+      "mesin": "THIES A9",
+      "no_resep": "OO07CC23A004",
+      "kikc": "OON26I076",
+      "volume_air_liter": 300
+    },
+    {
+      "lot_no": 5,
+      "warna": "A.G.13.A",
+      "berat_Benang_kg": 44,
+      "mesin": "THIES A8",
+      "no_resep": "AH12AG13A004",
+      "kikc": "AHN26I156",
+      "volume_air_liter": 300
+    }
+  ],
+  "orders": [
+    {
+      "nama_bahan": "SODIUM SULPHATE",
+      "rnc_celup_gram": 58040,
+      "stock_gram": 9067,
+      "rencana_celup_gram": 58040,
+      "sisa_stock_gram": 9008.96
+    },
+    {
+      "nama_bahan": "SODA ASH DENSE",
+      "rnc_celup_gram": 7440,
+      "stock_gram": 901045,
+      "rencana_celup_gram": 7440,
+      "sisa_stock_gram": 893605
+    },
+    {
+      "nama_bahan": "ACETIC ACID",
+      "rnc_celup_gram": 3859,
+      "stock_gram": 607435,
+      "rencana_celup_gram": 3859,
+      "sisa_stock_gram": 603576
+    },
+    {
+      "nama_bahan": "TRIWAX LUBE CY-30",
+      "rnc_celup_gram": 3285,
+      "stock_gram": 258481,
+      "rencana_celup_gram": 3285,
+      "sisa_stock_gram": 255196
+    },
+    {
+      "nama_bahan": "REACTIVE YELLOW 4GL (BF)",
+      "rnc_celup_gram": 1522.4,
+      "stock_gram": 36378,
+      "rencana_celup_gram": 1522.4,
+      "sisa_stock_gram": 34855.6
+    },
+    {
+      "nama_bahan": "COLORSOL ACE 81",
+      "rnc_celup_gram": 1400,
+      "stock_gram": 206617,
+      "rencana_celup_gram": 1400,
+      "sisa_stock_gram": 205217
+    },
+    {
+      "nama_bahan": "CAUSTIC SODA FLAKE",
+      "rnc_celup_gram": 1108.3,
+      "stock_gram": 1584.279,
+      "rencana_celup_gram": 1108.3,
+      "sisa_stock_gram": 1583.17
+    },
+    {
+      "nama_bahan": "HYDROGEN PEROKSIDA (H2O2) EX LOKAL",
+      "rnc_celup_gram": 888,
+      "stock_gram": 89000,
+      "rencana_celup_gram": 888,
+      "sisa_stock_gram": 88112
+    },
+    {
+      "nama_bahan": "LEOPHOL CK-100 CONC",
+      "rnc_celup_gram": 666,
+      "stock_gram": 165261,
+      "rencana_celup_gram": 666,
+      "sisa_stock_gram": 164595
+    },
+    {
+      "nama_bahan": "LUSTER SB",
+      "rnc_celup_gram": 581.25,
+      "stock_gram": 273985,
+      "rencana_celup_gram": 581.25,
+      "sisa_stock_gram": 273403.75
+    },
+    {
+      "nama_bahan": "DAISURF JET 100",
+      "rnc_celup_gram": 488,
+      "stock_gram": 172151,
+      "rencana_celup_gram": 488,
+      "sisa_stock_gram": 171663
+    },
+    {
+      "nama_bahan": "REDUCER ARP",
+      "rnc_celup_gram": 450,
+      "stock_gram": 346777,
+      "rencana_celup_gram": 450,
+      "sisa_stock_gram": 346327
+    },
+    {
+      "nama_bahan": "ERACRON YELLOW 6GSL",
+      "rnc_celup_gram": 448.8,
+      "stock_gram": 94380,
+      "rencana_celup_gram": 448.8,
+      "sisa_stock_gram": 93931.2
+    },
+    {
+      "nama_bahan": "REACTIVE YELLOW S-3RF 150 (BF)",
+      "rnc_celup_gram": 353.85,
+      "stock_gram": 78140,
+      "rencana_celup_gram": 353.85,
+      "sisa_stock_gram": 77786.15
+    },
+    {
+      "nama_bahan": "DEPSOLUBE ACA",
+      "rnc_celup_gram": 300,
+      "stock_gram": 278538,
+      "rencana_celup_gram": 300,
+      "sisa_stock_gram": 278238
+    },
+    {
+      "nama_bahan": "LEONADIN ST - 170",
+      "rnc_celup_gram": 222,
+      "stock_gram": 88954,
+      "rencana_celup_gram": 222,
+      "sisa_stock_gram": 88732
+    },
+    {
+      "nama_bahan": "TORALON YELLOW ACE 100%",
+      "rnc_celup_gram": 151.2,
+      "stock_gram": 26288,
+      "rencana_celup_gram": 151.2,
+      "sisa_stock_gram": 26136.8
+    },
+    {
+      "nama_bahan": "LEOPHEN NS POWDER",
+      "rnc_celup_gram": 150,
+      "stock_gram": 203799,
+      "rencana_celup_gram": 150,
+      "sisa_stock_gram": 203649
+    },
+    {
+      "nama_bahan": "REACTIVE RED S-3BF 150% (BF)",
+      "rnc_celup_gram": 131.1,
+      "stock_gram": 83728,
+      "rencana_celup_gram": 131.1,
+      "sisa_stock_gram": 83596.9
+    },
+    {
+      "nama_bahan": "ERAFIX TURQUOISE BLUE G 166%",
+      "rnc_celup_gram": 96.8,
+      "stock_gram": 37144,
+      "rencana_celup_gram": 96.8,
+      "sisa_stock_gram": 37047.2
+    },
+    {
+      "nama_bahan": "MATEXIL FC-PN",
+      "rnc_celup_gram": 88,
+      "stock_gram": 81958,
+      "rencana_celup_gram": 88,
+      "sisa_stock_gram": 81870
+    },
+    {
+      "nama_bahan": "TORALON BLUE AC-E 100%",
+      "rnc_celup_gram": 70.81,
+      "stock_gram": 22529,
+      "rencana_celup_gram": 70.81,
+      "sisa_stock_gram": 22458.19
+    },
+    {
+      "nama_bahan": "REACTIVE DEEP BLUE RX",
+      "rnc_celup_gram": 50.4,
+      "stock_gram": 85000,
+      "rencana_celup_gram": 50.4,
+      "sisa_stock_gram": 84949.6
+    },
+    {
+      "nama_bahan": "CORAZOL BRILL BLUE RN 150%",
+      "rnc_celup_gram": 27.73,
+      "stock_gram": 45588,
+      "rencana_celup_gram": 27.73,
+      "sisa_stock_gram": 45560.27
+    },
+    {
+      "nama_bahan": "TORALON RED ACE 100%",
+      "rnc_celup_gram": 11.88,
+      "stock_gram": 7977,
+      "rencana_celup_gram": 11.88,
+      "sisa_stock_gram": 7965.12
+    },
+    {
+      "nama_bahan": "REACTIVE BLACK B 150 % (VS)",
+      "rnc_celup_gram": 6.93,
+      "stock_gram": 44387,
+      "rencana_celup_gram": 6.93,
+      "sisa_stock_gram": 44380.07
+    }
+  ],
+  "gkdStock": [
+    {
+      "item_code": "16 Sep 26",
+      "item_desc": "",
+      "qoh1": "24.151,38",
+      "qoh2": "24.151,38",
+      "booking": "1.580,51",
+      "afs1": "22.570,85",
+      "afs2": "24.151,38",
+      "nama": ""
+    },
+    {
+      "item_code": "KXX09000002ZZ",
+      "item_desc": "ACETIC ACID",
+      "qoh1": "607,30",
+      "qoh2": "607,30",
+      "booking": "39,16",
+      "afs1": "568,15",
+      "afs2": "607,30",
+      "nama": "ACETIC ACID"
+    },
+    {
+      "item_code": "KGG01000002ZZ",
+      "item_desc": "ANTIREDUCER PAL-2",
+      "qoh1": "108,42",
+      "qoh2": "108,42",
+      "booking": "1,27",
+      "afs1": "107,14",
+      "afs2": "108,42",
+      "nama": "ANTIREDUCER PAL-2"
+    },
+    {
+      "item_code": "KXX19000009ZZ",
+      "item_desc": "ASAM SULFATE (H2SO4) 98%",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ASAM SULFATE (H2SO4) 98%"
+    },
+    {
+      "item_code": "KXX05000002ZZ",
+      "item_desc": "ASTRAPHLOXINE FF EXT.",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ASTRAPHLOXINE FF EXT."
+    },
+    {
+      "item_code": "KSS02000002ZZ",
+      "item_desc": "BASIC AURAMIN OO RRC",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "BASIC AURAMIN OO RRC"
+    },
+    {
+      "item_code": "KSS02000003ZZ",
+      "item_desc": "BASIC BRILLIANT GREEN CRYSTAL",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "BASIC BRILLIANT GREEN CRYSTAL"
+    },
+    {
+      "item_code": "KXX05000007ZZ",
+      "item_desc": "BASIC METHYLENE BLUE",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "BASIC METHYLENE BLUE"
+    },
+    {
+      "item_code": "KSS02000005ZZ",
+      "item_desc": "BASIC METHYL VIOLET 303 RRC",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "BASIC METHYL VIOLET 303 RRC"
+    },
+    {
+      "item_code": "KTA02000010ZZ",
+      "item_desc": "BEMACRON CARMINE RS",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "BEMACRON CARMINE RS"
+    },
+    {
+      "item_code": "KXZ14XSP009XX",
+      "item_desc": "BEMAX NTR",
+      "qoh1": "234,49",
+      "qoh2": "234,49",
+      "booking": "6,00",
+      "afs1": "228,49",
+      "afs2": "234,49",
+      "nama": "BEMAX NTR"
+    },
+    {
+      "item_code": "KOO04000015ZZ",
+      "item_desc": "CALCRON RED SF-4BN",
+      "qoh1": "56,76",
+      "qoh2": "56,76",
+      "booking": "11,91",
+      "afs1": "44,85",
+      "afs2": "56,76",
+      "nama": "CALCRON RED SF-4BN"
+    },
+    {
+      "item_code": "KOO04000016ZZ",
+      "item_desc": "CALCRON RED SF-KB",
+      "qoh1": "36,18",
+      "qoh2": "36,18",
+      "booking": "15,79",
+      "afs1": "20,39",
+      "afs2": "36,18",
+      "nama": "CALCRON RED SF-KB"
+    },
+    {
+      "item_code": "KOO04000020ZZ",
+      "item_desc": "CALCRON VIOLET S-3RL",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CALCRON VIOLET S-3RL"
+    },
+    {
+      "item_code": "KOO02000004ZZ",
+      "item_desc": "CATIONIC BLACK X3BL 300%",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CATIONIC BLACK X3BL 300%"
+    },
+    {
+      "item_code": "KOO02000012ZZ",
+      "item_desc": "CATIONIC RED XGRL 500%",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CATIONIC RED XGRL 500%"
+    },
+    {
+      "item_code": "KBB01000002ZZ",
+      "item_desc": "CAUSTIC SODA FLAKE",
+      "qoh1": "1.961,66",
+      "qoh2": "1.961,66",
+      "booking": "43,61",
+      "afs1": "1.918,04",
+      "afs2": "1.961,66",
+      "nama": "CAUSTIC SODA FLAKE"
+    },
+    {
+      "item_code": "KFF02000005ZZ",
+      "item_desc": "CHLORADYE AR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORADYE AR"
+    },
+    {
+      "item_code": "KZZ01000003ZZ",
+      "item_desc": "CHLORADYE DLP",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORADYE DLP"
+    },
+    {
+      "item_code": "KFF02000026ZZ",
+      "item_desc": "CHLORADYE LAR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORADYE LAR"
+    },
+    {
+      "item_code": "KFF02000006ZZ",
+      "item_desc": "CHLORAGEN AD",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORAGEN AD"
+    },
+    {
+      "item_code": "KFF02000007ZZ",
+      "item_desc": "CHLORAGEN SR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORAGEN SR"
+    },
+    {
+      "item_code": "KZZ03000001ZZ",
+      "item_desc": "CHLORANYL BLUE T-2B",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORANYL BLUE T-2B"
+    },
+    {
+      "item_code": "KFF05000002ZZ",
+      "item_desc": "CHLORANYL PENTA BLACK SP",
+      "qoh1": "54,12",
+      "qoh2": "54,12",
+      "booking": "0,00",
+      "afs1": "54,12",
+      "afs2": "54,12",
+      "nama": "CHLORANYL PENTA BLACK SP"
+    },
+    {
+      "item_code": "KFF05000004ZZ",
+      "item_desc": "CHLORANYL PENTA CYANINE B",
+      "qoh1": "39,77",
+      "qoh2": "39,77",
+      "booking": "0,00",
+      "afs1": "39,77",
+      "afs2": "39,77",
+      "nama": "CHLORANYL PENTA CYANINE B"
+    },
+    {
+      "item_code": "KFF05000005ZZ",
+      "item_desc": "CHLORANYL PENTA GOLDEN 2R",
+      "qoh1": "25,41",
+      "qoh2": "25,41",
+      "booking": "0,06",
+      "afs1": "25,35",
+      "afs2": "25,41",
+      "nama": "CHLORANYL PENTA GOLDEN 2R"
+    },
+    {
+      "item_code": "KFF05000006ZZ",
+      "item_desc": "CHLORANYL PENTA ORANGE 2R",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORANYL PENTA ORANGE 2R"
+    },
+    {
+      "item_code": "KFF05000007ZZ",
+      "item_desc": "CHLORANYL PENTA RED 2G",
+      "qoh1": "0,19",
+      "qoh2": "0,19",
+      "booking": "0,00",
+      "afs1": "0,19",
+      "afs2": "0,19",
+      "nama": "CHLORANYL PENTA RED 2G"
+    },
+    {
+      "item_code": "KFF05000008ZZ",
+      "item_desc": "CHLORANYL PENTA RED B",
+      "qoh1": "13,33",
+      "qoh2": "13,33",
+      "booking": "0,00",
+      "afs1": "13,33",
+      "afs2": "13,33",
+      "nama": "CHLORANYL PENTA RED B"
+    },
+    {
+      "item_code": "KFF05000009ZZ",
+      "item_desc": "CHLORANYL PENTA YELLOW 6G",
+      "qoh1": "4,37",
+      "qoh2": "4,37",
+      "booking": "0,00",
+      "afs1": "4,37",
+      "afs2": "4,37",
+      "nama": "CHLORANYL PENTA YELLOW 6G"
+    },
+    {
+      "item_code": "KXJ05XBL001XX",
+      "item_desc": "CHLORANYL ROYAL TV-HC",
+      "qoh1": "20,77",
+      "qoh2": "20,77",
+      "booking": "0,00",
+      "afs1": "20,77",
+      "afs2": "20,77",
+      "nama": "CHLORANYL ROYAL TV-HC"
+    },
+    {
+      "item_code": "KFF05000011ZZ",
+      "item_desc": "CHLORANYL ULTRA NAVY 2R",
+      "qoh1": "30,78",
+      "qoh2": "30,78",
+      "booking": "0,00",
+      "afs1": "30,78",
+      "afs2": "30,78",
+      "nama": "CHLORANYL ULTRA NAVY 2R"
+    },
+    {
+      "item_code": "KFF05000012ZZ",
+      "item_desc": "CHLORANYL ULTRA ORANGE 4R",
+      "qoh1": "7,59",
+      "qoh2": "7,59",
+      "booking": "0,00",
+      "afs1": "7,59",
+      "afs2": "7,59",
+      "nama": "CHLORANYL ULTRA ORANGE 4R"
+    },
+    {
+      "item_code": "KFF05000013ZZ",
+      "item_desc": "CHLORANYL ULTRA RED R",
+      "qoh1": "5,01",
+      "qoh2": "5,01",
+      "booking": "1,19",
+      "afs1": "3,82",
+      "afs2": "5,01",
+      "nama": "CHLORANYL ULTRA RED R"
+    },
+    {
+      "item_code": "KFF05000015ZZ",
+      "item_desc": "CHLORANYL YELLOW TV-HC",
+      "qoh1": "30,70",
+      "qoh2": "30,70",
+      "booking": "0,00",
+      "afs1": "30,70",
+      "afs2": "30,70",
+      "nama": "CHLORANYL YELLOW TV-HC"
+    },
+    {
+      "item_code": "KFF02000008ZZ",
+      "item_desc": "CHLORAPEX ASA",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "CHLORAPEX ASA"
+    },
+    {
+      "item_code": "KDD01000002ZZ",
+      "item_desc": "COLORSOL ACE 81",
+      "qoh1": "273,42",
+      "qoh2": "273,42",
+      "booking": "26,50",
+      "afs1": "246,92",
+      "afs2": "273,42",
+      "nama": "COLORSOL ACE 81"
+    },
+    {
+      "item_code": "KDD01000003ZZ",
+      "item_desc": "COLORSOL BL 10",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "COLORSOL BL 10"
+    },
+    {
+      "item_code": "KDD01000004ZZ",
+      "item_desc": "COLORSOL BL 30",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "COLORSOL BL 30"
+    },
+    {
+      "item_code": "KXZ01XYL030XX",
+      "item_desc": "CORALENE BRILL YELLOW 4GNL SE CONE",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,07",
+      "afs1": "-0,07",
+      "afs2": "0,00",
+      "nama": "CORALENE BRILL YELLOW 4GNL SE CONE"
+    },
+    {
+      "item_code": "KXZ05XBL003XX",
+      "item_desc": "CORAZOL BRILL BLUE RN 150%",
+      "qoh1": "54,09",
+      "qoh2": "54,09",
+      "booking": "6,57",
+      "afs1": "47,52",
+      "afs2": "54,09",
+      "nama": "CORAZOL BRILL BLUE RN 150%"
+    },
+    {
+      "item_code": "KDD02000003ZZ",
+      "item_desc": "DAICRYL BLUE KGS",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DAICRYL BLUE KGS"
+    },
+    {
+      "item_code": "KDD02000011ZZ",
+      "item_desc": "DAICRYL RED KGL",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DAICRYL RED KGL"
+    },
+    {
+      "item_code": "KDD02000015ZZ",
+      "item_desc": "DAICRYL YELLOW K3RL",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DAICRYL YELLOW K3RL"
+    },
+    {
+      "item_code": "KDD01000006ZZ",
+      "item_desc": "DAISURF JET 100",
+      "qoh1": "155,16",
+      "qoh2": "155,16",
+      "booking": "12,52",
+      "afs1": "142,64",
+      "afs2": "155,16",
+      "nama": "DAISURF JET 100"
+    },
+    {
+      "item_code": "KXX00000013ZZ",
+      "item_desc": "DBS",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,02",
+      "afs1": "-0,02",
+      "afs2": "0,00",
+      "nama": "DBS"
+    },
+    {
+      "item_code": "KXX00000140ZZ",
+      "item_desc": "DEFOAMER SN",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,03",
+      "afs1": "-0,03",
+      "afs2": "0,00",
+      "nama": "DEFOAMER SN"
+    },
+    {
+      "item_code": "KXX02000013ZZ",
+      "item_desc": "DEKOL SN-S",
+      "qoh1": "78,64",
+      "qoh2": "78,64",
+      "booking": "4,83",
+      "afs1": "73,81",
+      "afs2": "78,64",
+      "nama": "DEKOL SN-S"
+    },
+    {
+      "item_code": "KFF02000010ZZ",
+      "item_desc": "DEPSOLUBE ACA",
+      "qoh1": "282,06",
+      "qoh2": "282,06",
+      "booking": "21,95",
+      "afs1": "260,11",
+      "afs2": "282,06",
+      "nama": "DEPSOLUBE ACA"
+    },
+    {
+      "item_code": "KNN01000001ZZ",
+      "item_desc": "DIABRIGHT BHS",
+      "qoh1": "15,98",
+      "qoh2": "15,98",
+      "booking": "6,36",
+      "afs1": "9,62",
+      "afs2": "15,98",
+      "nama": "DIABRIGHT BHS"
+    },
+    {
+      "item_code": "KNN01000003ZZ",
+      "item_desc": "DIABRIGHT CID-01",
+      "qoh1": "43,26",
+      "qoh2": "43,26",
+      "booking": "1,10",
+      "afs1": "42,16",
+      "afs2": "43,26",
+      "nama": "DIABRIGHT CID-01"
+    },
+    {
+      "item_code": "KSS03000004ZZ",
+      "item_desc": "DIAMINE BROWN MC",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIAMINE BROWN MC"
+    },
+    {
+      "item_code": "KSS03000006ZZ",
+      "item_desc": "DIAMINE CHRYSOPHENINE G",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIAMINE CHRYSOPHENINE G"
+    },
+    {
+      "item_code": "KEE04000008ZZ",
+      "item_desc": "DIANIX LUMINOUS RED G",
+      "qoh1": "20,58",
+      "qoh2": "20,58",
+      "booking": "0,00",
+      "afs1": "20,58",
+      "afs2": "20,58",
+      "nama": "DIANIX LUMINOUS RED G"
+    },
+    {
+      "item_code": "KEE04000009ZZ",
+      "item_desc": "DIANIX LUMINOUS YELLOW 10 G",
+      "qoh1": "19,89",
+      "qoh2": "19,89",
+      "booking": "0,01",
+      "afs1": "19,89",
+      "afs2": "19,89",
+      "nama": "DIANIX LUMINOUS YELLOW 10 G"
+    },
+    {
+      "item_code": "KSS03000007ZZ",
+      "item_desc": "DIRECT BLACK EX 300 % CONZ",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIRECT BLACK EX 300 % CONZ"
+    },
+    {
+      "item_code": "KOO03000006ZZ",
+      "item_desc": "DIRECT BORDEAUX B 125 %",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIRECT BORDEAUX B 125 %"
+    },
+    {
+      "item_code": "KXX06000006ZZ",
+      "item_desc": "DIRECT CHRYSOPHENINE G",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIRECT CHRYSOPHENINE G"
+    },
+    {
+      "item_code": "KSS03000011ZZ",
+      "item_desc": "DIRECT CONGO RED",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIRECT CONGO RED"
+    },
+    {
+      "item_code": "KXX06000013ZZ",
+      "item_desc": "DIRECT FAST TURQUISE BLUE GL",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIRECT FAST TURQUISE BLUE GL"
+    },
+    {
+      "item_code": "KOO03000008ZZ",
+      "item_desc": "DIRECT GREEN BG",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIRECT GREEN BG"
+    },
+    {
+      "item_code": "KXX06000014ZZ",
+      "item_desc": "DIRECT GREY VGR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DIRECT GREY VGR"
+    },
+    {
+      "item_code": "KFF03000006ZZ",
+      "item_desc": "DISPANYL CARMIN HF",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DISPANYL CARMIN HF"
+    },
+    {
+      "item_code": "KZZ01000001ZZ",
+      "item_desc": "DISPANYL RED W-3B 125%",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DISPANYL RED W-3B 125%"
+    },
+    {
+      "item_code": "KZZ01000002ZZ",
+      "item_desc": "DISPANYL RED WR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DISPANYL RED WR"
+    },
+    {
+      "item_code": "KFF03000017ZZ",
+      "item_desc": "DISPANYL RED W-R",
+      "qoh1": "5,81",
+      "qoh2": "5,81",
+      "booking": "0,66",
+      "afs1": "5,15",
+      "afs2": "5,81",
+      "nama": "DISPANYL RED W-R"
+    },
+    {
+      "item_code": "KOO04000027ZZ",
+      "item_desc": "DISPERSE BLACK CCR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DISPERSE BLACK CCR"
+    },
+    {
+      "item_code": "KCC06000002ZZ",
+      "item_desc": "DRIMARENE BLUE CL-BR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DRIMARENE BLUE CL-BR"
+    },
+    {
+      "item_code": "KCC06000004ZZ",
+      "item_desc": "DRIMARENE NAVY HF-GN cdg",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DRIMARENE NAVY HF-GN cdg"
+    },
+    {
+      "item_code": "KCC06000007ZZ",
+      "item_desc": "DRIMARENE TURQUOISE CL-B",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DRIMARENE TURQUOISE CL-B"
+    },
+    {
+      "item_code": "KCC06000008ZZ",
+      "item_desc": "DRIMARENE YELLOW CL-2R p",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DRIMARENE YELLOW CL-2R p"
+    },
+    {
+      "item_code": "KCC06000010ZZ",
+      "item_desc": "DRIMARENE YELLOW CL-3G conc.p",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "DRIMARENE YELLOW CL-3G conc.p"
+    },
+    {
+      "item_code": "KXA14XAS001XX",
+      "item_desc": "ELENON H 1200",
+      "qoh1": "90,08",
+      "qoh2": "90,08",
+      "booking": "6,96",
+      "afs1": "83,12",
+      "afs2": "90,08",
+      "nama": "ELENON H 1200"
+    },
+    {
+      "item_code": "KXZ01XBK009XX",
+      "item_desc": "ERACON BLACK S4BL",
+      "qoh1": "15,12",
+      "qoh2": "15,12",
+      "booking": "4,51",
+      "afs1": "10,61",
+      "afs2": "15,12",
+      "nama": "ERACON BLACK S4BL"
+    },
+    {
+      "item_code": "KXV01XBL003XX",
+      "item_desc": "ERACRON BRILL BLUE S-BG 200%",
+      "qoh1": "16,00",
+      "qoh2": "16,00",
+      "booking": "0,00",
+      "afs1": "16,00",
+      "afs2": "16,00",
+      "nama": "ERACRON BRILL BLUE S-BG 200%"
+    },
+    {
+      "item_code": "KXV01XNB001XX",
+      "item_desc": "ERACRON NAVY BLUE S2GL 200%",
+      "qoh1": "44,91",
+      "qoh2": "44,91",
+      "booking": "1,97",
+      "afs1": "42,94",
+      "afs2": "44,91",
+      "nama": "ERACRON NAVY BLUE S2GL 200%"
+    },
+    {
+      "item_code": "KXV01XRD001XX",
+      "item_desc": "ERACRON RED SRC",
+      "qoh1": "21,21",
+      "qoh2": "21,21",
+      "booking": "0,00",
+      "afs1": "21,21",
+      "afs2": "21,21",
+      "nama": "ERACRON RED SRC"
+    },
+    {
+      "item_code": "KXV01XRB001XX",
+      "item_desc": "ERACRON RUBINE S2GFL 200%",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,49",
+      "afs1": "-0,49",
+      "afs2": "0,00",
+      "nama": "ERACRON RUBINE S2GFL 200%"
+    },
+    {
+      "item_code": "KXV01XYL001XX",
+      "item_desc": "ERACRON YELLOW 6GSL",
+      "qoh1": "26,08",
+      "qoh2": "26,08",
+      "booking": "1,23",
+      "afs1": "24,85",
+      "afs2": "26,08",
+      "nama": "ERACRON YELLOW 6GSL"
+    },
+    {
+      "item_code": "KXV01XYB001XX",
+      "item_desc": "ERACRON YELLOW BROWN 2S2RFL 200%",
+      "qoh1": "0,34",
+      "qoh2": "0,34",
+      "booking": "0,17",
+      "afs1": "0,17",
+      "afs2": "0,34",
+      "nama": "ERACRON YELLOW BROWN 2S2RFL 200%"
+    },
+    {
+      "item_code": "KXV03XOR001XX",
+      "item_desc": "ERAFIX ORANGE 3RX",
+      "qoh1": "39,75",
+      "qoh2": "39,75",
+      "booking": "7,44",
+      "afs1": "32,32",
+      "afs2": "39,75",
+      "nama": "ERAFIX ORANGE 3RX"
+    },
+    {
+      "item_code": "KXV05XTQ001XX",
+      "item_desc": "ERAFIX TURQUOISE BLUE G 166%",
+      "qoh1": "18,81",
+      "qoh2": "18,81",
+      "booking": "1,44",
+      "afs1": "17,37",
+      "afs2": "18,81",
+      "nama": "ERAFIX TURQUOISE BLUE G 166%"
+    },
+    {
+      "item_code": "KXZ16XNP001XX",
+      "item_desc": "ERANAFTOL ASG",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ERANAFTOL ASG"
+    },
+    {
+      "item_code": "KXV16XNP002XX",
+      "item_desc": "ERANAFTOL AS-G",
+      "qoh1": "2,63",
+      "qoh2": "2,63",
+      "booking": "0,49",
+      "afs1": "2,15",
+      "afs2": "2,63",
+      "nama": "ERANAFTOL AS-G"
+    },
+    {
+      "item_code": "KII01000007ZZ",
+      "item_desc": "ERIONYL NAVY A-R",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ERIONYL NAVY A-R"
+    },
+    {
+      "item_code": "KII01000011ZZ",
+      "item_desc": "ERIONYL RED B 200 %",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ERIONYL RED B 200 %"
+    },
+    {
+      "item_code": "KII01000013ZZ",
+      "item_desc": "ERIONYL YELLOW A-3G",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ERIONYL YELLOW A-3G"
+    },
+    {
+      "item_code": "KXX02000023ZZ",
+      "item_desc": "ESKAFINISH FN-PAC 200",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ESKAFINISH FN-PAC 200"
+    },
+    {
+      "item_code": "KXX09000060ZZ",
+      "item_desc": "ESKAPLUS DN-SR",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ESKAPLUS DN-SR"
+    },
+    {
+      "item_code": "KXX02000024ZZ",
+      "item_desc": "ESKASOFT AMN",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "ESKASOFT AMN"
+    },
+    {
+      "item_code": "KSS04000005ZZ",
+      "item_desc": "FAST BASE BLACK B",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "2,83",
+      "afs1": "-2,83",
+      "afs2": "0,00",
+      "nama": "FAST BASE BLACK B"
+    },
+    {
+      "item_code": "KXV09XBK001XX",
+      "item_desc": "FAST BASE BLACK B (2)",
+      "qoh1": "4,86",
+      "qoh2": "4,86",
+      "booking": "4,68",
+      "afs1": "0,18",
+      "afs2": "4,86",
+      "nama": "FAST BASE BLACK B (2)"
+    },
+    {
+      "item_code": "KXX08000002ZZ",
+      "item_desc": "FAST BORDEAUX GP BASE",
+      "qoh1": "14,07",
+      "qoh2": "14,07",
+      "booking": "0,00",
+      "afs1": "14,07",
+      "afs2": "14,07",
+      "nama": "FAST BORDEAUX GP BASE"
+    },
+    {
+      "item_code": "KXX08000004ZZ",
+      "item_desc": "FAST RED B BASE",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "FAST RED B BASE"
+    },
+    {
+      "item_code": "KXX08000005ZZ",
+      "item_desc": "FAST SCARLET R BASE",
+      "qoh1": "25,19",
+      "qoh2": "25,19",
+      "booking": "3,97",
+      "afs1": "21,22",
+      "afs2": "25,19",
+      "nama": "FAST SCARLET R BASE"
+    },
+    {
+      "item_code": "KXX09000021ZZ",
+      "item_desc": "FORMIC ACID 90% SINTAS",
+      "qoh1": "18,47",
+      "qoh2": "18,47",
+      "booking": "10,54",
+      "afs1": "7,92",
+      "afs2": "18,47",
+      "nama": "FORMIC ACID 90% SINTAS"
+    },
+    {
+      "item_code": "KXI15XMZ001XX",
+      "item_desc": "FORMIC ACID EX BASF",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "FORMIC ACID EX BASF"
+    },
+    {
+      "item_code": "KFF07000014ZZ",
+      "item_desc": "GALAXYL NAVY XLN",
+      "qoh1": "20,84",
+      "qoh2": "20,84",
+      "booking": "0,00",
+      "afs1": "20,84",
+      "afs2": "20,84",
+      "nama": "GALAXYL NAVY XLN"
+    },
+    {
+      "item_code": "KFF07000016ZZ",
+      "item_desc": "GALAXYL SKY BLUE XLN",
+      "qoh1": "15,80",
+      "qoh2": "15,80",
+      "booking": "0,00",
+      "afs1": "15,80",
+      "afs2": "15,80",
+      "nama": "GALAXYL SKY BLUE XLN"
+    },
+    {
+      "item_code": "KXX08000010ZZ",
+      "item_desc": "GARAM BORDOUX GP",
+      "qoh1": "4,08",
+      "qoh2": "4,08",
+      "booking": "0,00",
+      "afs1": "4,08",
+      "afs2": "4,08",
+      "nama": "GARAM BORDOUX GP"
+    },
+    {
+      "item_code": "KRR03000002ZZ",
+      "item_desc": "GARAM RED B JAPAN",
+      "qoh1": "2,10",
+      "qoh2": "2,10",
+      "booking": "0,00",
+      "afs1": "2,10",
+      "afs2": "2,10",
+      "nama": "GARAM RED B JAPAN"
+    },
+    {
+      "item_code": "KSS04000004ZZ",
+      "item_desc": "GARAM SCARLET GG",
+      "qoh1": "16,46",
+      "qoh2": "16,46",
+      "booking": "0,88",
+      "afs1": "15,58",
+      "afs2": "16,46",
+      "nama": "GARAM SCARLET GG"
+    },
+    {
+      "item_code": "KXX08000012ZZ",
+      "item_desc": "GARAM SCARLET R Sp.",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "GARAM SCARLET R Sp."
+    },
+    {
+      "item_code": "KXZ14XSF011XX",
+      "item_desc": "HIGRO SOFT B",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "HIGRO SOFT B"
+    },
+    {
+      "item_code": "KCC02000011ZZ",
+      "item_desc": "HOSTALUX ACK liq.",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "HOSTALUX ACK liq."
+    },
+    {
+      "item_code": "KMM01000001ZZ",
+      "item_desc": "HYDROCOL KAE EXTRA - ID",
+      "qoh1": "191,38",
+      "qoh2": "191,38",
+      "booking": "1,16",
+      "afs1": "190,22",
+      "afs2": "191,38",
+      "nama": "HYDROCOL KAE EXTRA - ID"
+    },
+    {
+      "item_code": "KXX09000028ZZ",
+      "item_desc": "HYDROGEN PEROKSIDA (H2O2)",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "HYDROGEN PEROKSIDA (H2O2)"
+    },
+    {
+      "item_code": "KXX09000030ZZ",
+      "item_desc": "HYDROGEN PEROKSIDA (H2O2) EX LOKAL",
+      "qoh1": "83,74",
+      "qoh2": "83,74",
+      "booking": "38,32",
+      "afs1": "45,42",
+      "afs2": "83,74",
+      "nama": "HYDROGEN PEROKSIDA (H2O2) EX LOKAL"
+    },
+    {
+      "item_code": "KFF04000002ZZ",
+      "item_desc": "HYDROSULPHITE 90% EX.CHINA",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "HYDROSULPHITE 90% EX.CHINA"
+    },
+    {
+      "item_code": "KOO05000002ZZ",
+      "item_desc": "HYDROSULPHITE EX. CHINA 90%",
+      "qoh1": "115,41",
+      "qoh2": "115,41",
+      "booking": "65,75",
+      "afs1": "49,66",
+      "afs2": "115,41",
+      "nama": "HYDROSULPHITE EX. CHINA 90%"
+    },
+    {
+      "item_code": "KXX18000004ZZ",
+      "item_desc": "INDANTHREN BROWN BR",
+      "qoh1": "1,66",
+      "qoh2": "1,66",
+      "booking": "0,00",
+      "afs1": "1,66",
+      "afs2": "1,66",
+      "nama": "INDANTHREN BROWN BR"
+    },
+    {
+      "item_code": "KSS07000001ZZ",
+      "item_desc": "INDANTHRENE GREEN XBN",
+      "qoh1": "14,32",
+      "qoh2": "14,32",
+      "booking": "12,20",
+      "afs1": "2,12",
+      "afs2": "14,32",
+      "nama": "INDANTHRENE GREEN XBN"
+    },
+    {
+      "item_code": "KNN08000006ZZ",
+      "item_desc": "INDANTHREN GOLD ORANGE G",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "INDANTHREN GOLD ORANGE G"
+    },
+    {
+      "item_code": "KSS07000003ZZ",
+      "item_desc": "INDANTREN BLACK RB",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "INDANTREN BLACK RB"
+    },
+    {
+      "item_code": "KSS07000004ZZ",
+      "item_desc": "INDANTREN BLUE RSN 200%",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "INDANTREN BLUE RSN 200%"
+    },
+    {
+      "item_code": "KSS07000005ZZ",
+      "item_desc": "INDANTREN GOLD ORANGE G",
+      "qoh1": "8,72",
+      "qoh2": "8,72",
+      "booking": "2,86",
+      "afs1": "5,86",
+      "afs2": "8,72",
+      "nama": "INDANTREN GOLD ORANGE G"
+    },
+    {
+      "item_code": "KSS07000007ZZ",
+      "item_desc": "INDANTREN VIOLET 4R 200%",
+      "qoh1": "22,94",
+      "qoh2": "22,94",
+      "booking": "0,03",
+      "afs1": "22,91",
+      "afs2": "22,94",
+      "nama": "INDANTREN VIOLET 4R 200%"
+    },
+    {
+      "item_code": "KSS07000010ZZ",
+      "item_desc": "INDANTREN YELLOW GCN 200%",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "INDANTREN YELLOW GCN 200%"
+    },
+    {
+      "item_code": "KXX16000022ZZ",
+      "item_desc": "IRISTIVE BLUE 2R",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "IRISTIVE BLUE 2R"
+    },
+    {
+      "item_code": "KXX16000020ZZ",
+      "item_desc": "IRISTIVE ORANGE 3R",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "IRISTIVE ORANGE 3R"
+    },
+    {
+      "item_code": "KXX14000020ZZ",
+      "item_desc": "IRISTIVE YELLOW ME4GL",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "IRISTIVE YELLOW ME4GL"
+    },
+    {
+      "item_code": "KOO01000001ZZ",
+      "item_desc": "KASESOL 05 N",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "KASESOL 05 N"
+    },
+    {
+      "item_code": "KXX02000034ZZ",
+      "item_desc": "KATANOL NS LIQ",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "KATANOL NS LIQ"
+    },
+    {
+      "item_code": "KXX02000035ZZ",
+      "item_desc": "KATLEVDIS CONC",
+      "qoh1": "2,90",
+      "qoh2": "2,90",
+      "booking": "0,00",
+      "afs1": "2,90",
+      "afs2": "2,90",
+      "nama": "KATLEVDIS CONC"
+    },
+    {
+      "item_code": "KXX00000036ZZ",
+      "item_desc": "KELAPA",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "KELAPA"
+    },
+    {
+      "item_code": "KXZ14XSP012XX",
+      "item_desc": "ECONAT LABS",
+      "qoh1": "17,79",
+      "qoh2": "17,79",
+      "booking": "4,01",
+      "afs1": "13,78",
+      "afs2": "17,79",
+      "nama": "ECONAT LABS"
+    },
+    {
+      "item_code": "KFF02000014ZZ",
+      "item_desc": "LENETOL DM-CP",
+      "qoh1": "11,50",
+      "qoh2": "11,50",
+      "booking": "0,00",
+      "afs1": "11,50",
+      "afs2": "11,50",
+      "nama": "LENETOL DM-CP"
+    },
+    {
+      "item_code": "KGG01000009ZZ",
+      "item_desc": "LEOCOL AM",
+      "qoh1": "19,19",
+      "qoh2": "19,19",
+      "booking": "0,94",
+      "afs1": "18,26",
+      "afs2": "19,19",
+      "nama": "LEOCOL AM"
+    },
+    {
+      "item_code": "KGG01000010ZZ",
+      "item_desc": "LEONADIN ST - 170",
+      "qoh1": "142,92",
+      "qoh2": "142,92",
+      "booking": "2,91",
+      "afs1": "140,01",
+      "afs2": "142,92",
+      "nama": "LEONADIN ST - 170"
+    },
+    {
+      "item_code": "KGG01000013ZZ",
+      "item_desc": "LEOPHEN NS POWDER",
+      "qoh1": "312,27",
+      "qoh2": "312,27",
+      "booking": "16,11",
+      "afs1": "296,16",
+      "afs2": "312,27",
+      "nama": "LEOPHEN NS POWDER"
+    },
+    {
+      "item_code": "KGG01000018ZZ",
+      "item_desc": "LEOPHOL CK 100",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "LEOPHOL CK 100"
+    },
+    {
+      "item_code": "KGG01000044ZZ",
+      "item_desc": "LEOPHOL CK-100 CONC",
+      "qoh1": "271,34",
+      "qoh2": "271,34",
+      "booking": "12,22",
+      "afs1": "259,11",
+      "afs2": "271,34",
+      "nama": "LEOPHOL CK-100 CONC"
+    },
+    {
+      "item_code": "KGG03000003ZZ",
+      "item_desc": "LEOPHOL RC-13",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "LEOPHOL RC-13"
+    },
+    {
+      "item_code": "KGG01000027ZZ",
+      "item_desc": "LEOSOFT CS 107 N",
+      "qoh1": "60,76",
+      "qoh2": "60,76",
+      "booking": "19,93",
+      "afs1": "40,83",
+      "afs2": "60,76",
+      "nama": "LEOSOFT CS 107 N"
+    },
+    {
+      "item_code": "KDD01000012ZZ",
+      "item_desc": "LUSTER L 90 B",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "LUSTER L 90 B"
+    },
+    {
+      "item_code": "KDD01000017ZZ",
+      "item_desc": "LUSTER SB",
+      "qoh1": "413,56",
+      "qoh2": "413,56",
+      "booking": "25,95",
+      "afs1": "387,61",
+      "afs2": "413,56",
+      "nama": "LUSTER SB"
+    },
+    {
+      "item_code": "KFF02000020ZZ",
+      "item_desc": "MATEXIL FC-PN",
+      "qoh1": "149,08",
+      "qoh2": "149,08",
+      "booking": "8,78",
+      "afs1": "140,30",
+      "afs2": "149,08",
+      "nama": "MATEXIL FC-PN"
+    },
+    {
+      "item_code": "KSS01000003ZZ",
+      "item_desc": "MINAGENT POWDER",
+      "qoh1": "20,93",
+      "qoh2": "20,93",
+      "booking": "0,00",
+      "afs1": "20,93",
+      "afs2": "20,93",
+      "nama": "MINAGENT POWDER"
+    },
+    {
+      "item_code": "KXX11000001ZZ",
+      "item_desc": "NAPHTOL AS",
+      "qoh1": "3,32",
+      "qoh2": "3,32",
+      "booking": "1,97",
+      "afs1": "1,36",
+      "afs2": "3,32",
+      "nama": "NAPHTOL AS"
+    },
+    {
+      "item_code": "KXZ16XNP005XX",
+      "item_desc": "NAPHTOL AS-BO",
+      "qoh1": "8,20",
+      "qoh2": "8,20",
+      "booking": "4,84",
+      "afs1": "3,36",
+      "afs2": "8,20",
+      "nama": "NAPHTOL AS-BO"
+    },
+    {
+      "item_code": "KXZ16XNP013XX",
+      "item_desc": "NAPHTOL AS-BO DARK",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "NAPHTOL AS-BO DARK"
+    },
+    {
+      "item_code": "KSS06000003ZZ",
+      "item_desc": "NAPHTOL AS-G",
+      "qoh1": "19,55",
+      "qoh2": "19,55",
+      "booking": "0,13",
+      "afs1": "19,42",
+      "afs2": "19,55",
+      "nama": "NAPHTOL AS-G"
+    },
+    {
+      "item_code": "KSS07000011ZZ",
+      "item_desc": "NOVATIC GREEN XBN 300%",
+      "qoh1": "1,27",
+      "qoh2": "1,27",
+      "booking": "0,00",
+      "afs1": "1,27",
+      "afs2": "1,27",
+      "nama": "NOVATIC GREEN XBN 300%"
+    },
+    {
+      "item_code": "KCC02000025ZZ",
+      "item_desc": "OPTIFIX F liq.",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "OPTIFIX F liq."
+    },
+    {
+      "item_code": "KXX09000042ZZ",
+      "item_desc": "OXALIC ACID",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "OXALIC ACID"
+    },
+    {
+      "item_code": "KLL03000002ZZ",
+      "item_desc": "OXALIC ACID EX. CHN",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "OXALIC ACID EX. CHN"
+    },
+    {
+      "item_code": "KA2A2000001ZZ",
+      "item_desc": "PLAS SIZE J ABC",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "PLAS SIZE J ABC"
+    },
+    {
+      "item_code": "KYY01000003ZZ",
+      "item_desc": "PROSOFT S-100",
+      "qoh1": "157,71",
+      "qoh2": "157,71",
+      "booking": "0,00",
+      "afs1": "157,71",
+      "afs2": "157,71",
+      "nama": "PROSOFT S-100"
+    },
+    {
+      "item_code": "KXX09000044ZZ",
+      "item_desc": "PUPUK ZA ( AMONIUM SULPATE )",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "PUPUK ZA ( AMONIUM SULPATE )"
+    },
+    {
+      "item_code": "CAA02000080ZZ",
+      "item_desc": "PVA 1788",
+      "qoh1": "0,00",
+      "qoh2": "0,00",
+      "booking": "0,00",
+      "afs1": "0,00",
+      "afs2": "0,00",
+      "nama": "PVA 1788"
+    }
+  ]
+}

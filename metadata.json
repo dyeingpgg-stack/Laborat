@@ -1,0 +1,8 @@
+{
+  "name": "Remix Resep Pencelupan Warna \u0026 Komposisi Kimia Dyeing",
+  "description": "Aplikasi resep pencelupan warna tekstil, formulasi bahan kimia per tahap proses, kalkulator dosis batch, serta sinkronisasi multi-sheet spreadsheet RPH (Resep, MC, dan WOD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

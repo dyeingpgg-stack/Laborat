@@ -1,0 +1,293 @@
+import { ResepDetail, MesinCelup, WorkOrderDyeing } from '../types/resep';
+
+/**
+ * Data Master Resep Autentik dari Bon Bahan Kimia PDF:
+ * Kode Resep: OO07CC13A003
+ * Warna Benang: C.C.13.A
+ * Jns & No Bng: TM Ne 80/2
+ * Nomor KIKC: OON26I027
+ * Berat Bahan: 123.75 kg
+ * Volume Air: 1300 L
+ * Nomor Mesin: THIES A13
+ */
+export const SAMPLE_RECIPES_RPH: ResepDetail[] = [
+  {
+    no_resep: 'OO07CC13A003',
+    warna: 'C.C.13.A',
+    no_bng: 'TM Ne 80/2',
+    tipe_resep: 'REGULER',
+    total_bahan: 14,
+    tahap_proses: [
+      {
+        tahap: 'PRETREATMENT',
+        langkah: [
+          {
+            jns_proses: 'PRETREATMENT',
+            ket_proses_desc: 'Scoring (100°C-60\')',
+            mat_code: 'A14SP09',
+            mat_name: 'PENGHILANG KANJI & LEMAK A14SP09',
+            qty: 0.75,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Scoring (100°C-60\')',
+          },
+          {
+            jns_proses: 'PRETREATMENT',
+            ket_proses_desc: 'Scoring (100°C-60\')',
+            mat_code: 'KBB01000002ZZ',
+            mat_name: 'CAUSTIC SODA FLAKE',
+            qty: 1.0,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Scoring (100°C-60\')',
+          },
+          {
+            jns_proses: 'PRETREATMENT',
+            ket_proses_desc: 'Scoring (100°C-60\')',
+            mat_code: 'A14SB01',
+            mat_name: 'STABILISATOR H2O2 A14SB01',
+            qty: 0.25,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Scoring (100°C-60\')',
+          },
+          {
+            jns_proses: 'PRETREATMENT',
+            ket_proses_desc: 'Scoring (100°C-60\')',
+            mat_code: 'KXX09000030ZZ',
+            mat_name: 'HYDROGEN PEROKSIDA (H2O2) EX LOKAL',
+            qty: 1.0,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Scoring (100°C-60\')',
+          },
+          {
+            jns_proses: 'PRETREATMENT',
+            ket_proses_desc: 'Cuci Netralisir (NETRALISIR)',
+            mat_code: 'KXX09000002ZZ',
+            mat_name: 'ACETIC ACID',
+            qty: 1.0,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Cuci Netralisir (NETRALISIR)',
+          },
+        ],
+      },
+      {
+        tahap: 'PROCESSING',
+        langkah: [
+          {
+            jns_proses: 'PROCESSING',
+            ket_proses_desc: 'Celup R (60°C-60\')',
+            mat_code: 'A05YL02',
+            mat_name: 'REACTIVE YELLOW A05YL02',
+            qty: 0.11,
+            uom_code: '%',
+            catatan_proses: 'Celup R (60°C-60\')',
+          },
+          {
+            jns_proses: 'PROCESSING',
+            ket_proses_desc: 'Celup R (60°C-60\')',
+            mat_code: 'A05RD01',
+            mat_name: 'REACTIVE RED A05RD01',
+            qty: 0.13,
+            uom_code: '%',
+            catatan_proses: 'Celup R (60°C-60\')',
+          },
+          {
+            jns_proses: 'PROCESSING',
+            ket_proses_desc: 'Celup R (60°C-60\')',
+            mat_code: 'Z03BL06',
+            mat_name: 'REACTIVE BLUE Z03BL06',
+            qty: 0.03,
+            uom_code: '%',
+            catatan_proses: 'Celup R (60°C-60\')',
+          },
+          {
+            jns_proses: 'PROCESSING',
+            ket_proses_desc: 'Celup R (60°C-60\')',
+            mat_code: 'KBB01000005ZZ',
+            mat_name: 'SODIUM SULPHATE',
+            qty: 30.0,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Celup R (60°C-60\')',
+          },
+          {
+            jns_proses: 'PROCESSING',
+            ket_proses_desc: 'Celup R (60°C-60\')',
+            mat_code: 'KLL03000003ZZ',
+            mat_name: 'SODA ASH DENSE',
+            qty: 5.0,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Celup R (60°C-60\')',
+          },
+        ],
+      },
+      {
+        tahap: 'AFTER TREATMENT',
+        langkah: [
+          {
+            jns_proses: 'AFTER TREATMENT',
+            ket_proses_desc: 'Washing/Cuci (CUCI)',
+            mat_code: 'KXX09000002ZZ',
+            mat_name: 'ACETIC ACID',
+            qty: 0.5,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Washing/Cuci (CUCI)',
+          },
+          {
+            jns_proses: 'AFTER TREATMENT',
+            ket_proses_desc: 'Washing/Cuci (CUCI)',
+            mat_code: 'N14SP01',
+            mat_name: 'SOAPING AGENT N14SP01',
+            qty: 0.5,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Washing/Cuci (CUCI)',
+          },
+          {
+            jns_proses: 'AFTER TREATMENT',
+            ket_proses_desc: 'Softener/Pelicin (PLRTN 50°C + AIR DINGIN)',
+            mat_code: 'Z14SF13',
+            mat_name: 'SOFTENER Z14SF13',
+            qty: 3.0,
+            uom_code: '%',
+            catatan_proses: 'Softener/Pelicin (PLRTN 50°C + AIR DINGIN)',
+          },
+          {
+            jns_proses: 'AFTER TREATMENT',
+            ket_proses_desc: 'Softener/Pelicin (PLRTN 50°C + AIR DINGIN)',
+            mat_code: 'KXX09000002ZZ',
+            mat_name: 'ACETIC ACID',
+            qty: 0.375,
+            uom_code: 'Gr/l',
+            catatan_proses: 'Softener/Pelicin (PLRTN 50°C + AIR DINGIN)',
+          },
+        ],
+      },
+    ],
+  },
+];
+
+/**
+ * Mesin Celup Autentik dari Sheet "MC"
+ */
+export const SAMPLE_MACHINES_RPH: MesinCelup[] = [
+  {
+    no_mc: 'THIES A13',
+    nama_mesin: 'Thies Yarn Dyeing A13',
+    tipe_mesin: 'High Temp Cheese/Cone Dyeing',
+    kapasitas_min_kg: 50,
+    kapasitas_max_kg: 150,
+    liquor_ratio_min: 8,
+    liquor_ratio_max: 12,
+    volume_min_liter: 400,
+    volume_max_liter: 1600,
+    status: 'SIAP',
+    keterangan: 'Mesin Thies khusus benang katun rajut & tenun',
+  },
+  {
+    no_mc: 'THIES A11',
+    nama_mesin: 'Thies Yarn Dyeing A11',
+    tipe_mesin: 'High Temp Cheese/Cone Dyeing',
+    kapasitas_min_kg: 30,
+    kapasitas_max_kg: 100,
+    liquor_ratio_min: 8,
+    liquor_ratio_max: 12,
+    volume_min_liter: 250,
+    volume_max_liter: 1200,
+    status: 'SIAP',
+    keterangan: 'Kapasitas medium package dyeing',
+  },
+  {
+    no_mc: 'THIES A12',
+    nama_mesin: 'Thies Yarn Dyeing A12',
+    tipe_mesin: 'High Temp Cheese/Cone Dyeing',
+    kapasitas_min_kg: 50,
+    kapasitas_max_kg: 150,
+    liquor_ratio_min: 8,
+    liquor_ratio_max: 12,
+    volume_min_liter: 400,
+    volume_max_liter: 1600,
+    status: 'SIAP',
+    keterangan: 'Spesialisasi benang combed & carded',
+  },
+  {
+    no_mc: 'FONG\'S 01',
+    nama_mesin: 'Fong\'s Package Dyeing 01',
+    tipe_mesin: 'High Pressure Cone Dyeing',
+    kapasitas_min_kg: 100,
+    kapasitas_max_kg: 300,
+    liquor_ratio_min: 6,
+    liquor_ratio_max: 10,
+    volume_min_liter: 600,
+    volume_max_liter: 3000,
+    status: 'SIAP',
+    keterangan: 'Kapasitas besar 300 kg benang',
+  },
+  {
+    no_mc: 'SCLAVOS 02',
+    nama_mesin: 'Sclavos Fabric/Yarn 02',
+    tipe_mesin: 'Atmospheric & HT Jet',
+    kapasitas_min_kg: 150,
+    kapasitas_max_kg: 450,
+    liquor_ratio_min: 6,
+    liquor_ratio_max: 9,
+    volume_min_liter: 900,
+    volume_max_liter: 4000,
+    status: 'SIAP',
+    keterangan: 'Rasio air rendah ramah lingkungan',
+  },
+];
+
+/**
+ * Data Work Order Dyeing (Sheet "WOD")
+ * Mengintegrasikan KIKC dengan Kode Resep & Mesin
+ */
+export const SAMPLE_WORK_ORDERS_RPH: WorkOrderDyeing[] = [
+  {
+    no_wod: 'OON26I027',
+    kikc: 'OON26I027',
+    nomor_bon: 'DBB/2609/00208',
+    tanggal: '07-09-2026',
+    no_resep: 'OO07CC13A003',
+    warna: 'C.C.13.A',
+    no_bng: 'TM Ne 80/2',
+    no_mc: 'THIES A13',
+    berat_Benang_kg: 123.75,
+    volume_air_liter: 1300,
+    liquor_ratio: '1:10.5',
+    customer: 'PT TEXTILE INDO',
+    jns_cone: 'CHESE',
+    status: 'PROSES',
+    catatan: 'Lot utama sesuai Bon Bahan Kimia PDF. Pompa I/O 3.5 bar.',
+  },
+  {
+    no_wod: 'OON26I028',
+    kikc: 'OON26I028',
+    nomor_bon: 'DBB/2609/00209',
+    tanggal: '08-09-2026',
+    no_resep: 'OO07CC13A003',
+    warna: 'C.C.13.A',
+    no_bng: 'TM Ne 80/2',
+    no_mc: 'THIES A12',
+    berat_Benang_kg: 140.0,
+    volume_air_liter: 1470,
+    liquor_ratio: '1:10.5',
+    customer: 'CV MAJU BUSANA',
+    jns_cone: 'CHESE',
+    status: 'RENCANA',
+    catatan: 'Kelanjutan lot warna C.C.13.A',
+  },
+  {
+    no_wod: 'OON26I029',
+    kikc: 'OON26I029',
+    nomor_bon: 'DBB/2609/00210',
+    tanggal: '08-09-2026',
+    no_resep: 'OO07CC13A003',
+    warna: 'C.C.13.A',
+    no_bng: 'TM Ne 80/2',
+    no_mc: 'THIES A11',
+    berat_Benang_kg: 85.5,
+    volume_air_liter: 897,
+    liquor_ratio: '1:10.5',
+    customer: 'GARMENT EXPORT JAYA',
+    jns_cone: 'CHESE',
+    status: 'RENCANA',
+    catatan: 'Batch kecil benang halus 80/2',
+  },
+];
